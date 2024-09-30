@@ -1,43 +1,63 @@
 {
   "title": "end of a life",
-  "status": 2,
+  "status": 3,
   "artist": "Calliope Mori",
   "lyricist": "Calliope Mori",
   "composer": "Pretty Patterns",
   "arranger": "なつめ千秋",
-  "translator": "z480308x",
+  "translator": "戌神沁沁",
   "start_at": 0.0,
   "url": "BXB26PzV31k?si=Q2K2nOGDyZ0ukiDM",
   "lyrics": [
     {
-      "time": 4.02,
-      "en": "We'd run right through those nights I'll never find my way back to you",
-      "zh": "我們曾經一起走過那些夜晚 我從未為了尋找你而走過回頭路"
+      "time": 3.416,
+      "en": "We'd run right through those nights",
+      "zh": "我們曾經一起走過那些夜晚"
     },
     {
-      "time": 12.3,
-      "en": "Inside this labyrinth of lights there was madness In the meaning, never laughless",
-      "zh": "在這光耀的迷途中 我們曾經瘋狂，且未曾失去歡笑"
+      "time": 10.187,
+      "en": "I'll never find my way back to you inside this labyrinth of lights",
+      "zh": "在這光耀的迷途中 我仍未找尋到去往你身旁的道路"
     },
     {
-      "time": 18.1,
+      "time": 14.314,
+      "en": "There was madness in the meaning, never laughless",
+      "zh": "我們曾經瘋狂，且未曾失去歡笑"
+    },
+    {
+      "time": 18.194,
       "en": "We were screaming at the top of our lungs to the numbness",
       "zh": "我們尖叫到身體開始麻木"
     },
     {
       "time": 21.3,
-      "en": "This city never died I'll fly no proof those heights",
-      "zh": "而這些只意味著我們活著 我不需要證明我能飛得多高"
+      "en": "This city never died",
+      "zh": "而這些只意味著我們活著"
+    },
+    {
+      "time": 24.847,
+      "en": "I'll fly no proof those heights",
+      "zh": "我不需要證明我能飛得多高"
     },
     {
       "time": 31.3,
-      "en": "I'll never find another chance to say hey, ”Thanks for saving my life”, I was hopeless",
-      "zh": "我卻從未找到機會向你道謝「謝謝你拯救了我」 我感到無助"
+      "en": "I'll never find another chance to say hey",
+      "zh": "我卻從未找到機會向你道謝"
     },
     {
-      "time": 36.62,
-      "en": "It was stinging, running roadless We were singing at the top of our lungs to the numbness",
-      "zh": "那折騰著我 我們高聲歡唱直到身體開始麻木"
+      "time": 34.135,
+      "en": "”Thanks for saving my life”",
+      "zh": "「謝謝你拯救了我」"
+    },
+    {
+      "time": 35.478,
+      "en": "I was hopeless. It was stinging, running roadless",
+      "zh": "漫無目的使我感到無助 使我痛苦"
+    },
+    {
+      "time": 39.622,
+      "en": " We were singing at the top of our lungs to the numbness",
+      "zh": "我們高聲歡唱直到身體開始麻木"
     },
     {
       "time": 42.64,
@@ -50,9 +70,14 @@
       "zh": "最初的最初是什麼，我可能無法闡明"
     },
     {
-      "time": 49.4,
-      "en": "Used to jump and then fall, rugged and cliched Would shrug it off without complaint, not a sound",
-      "zh": "飛越後的墜落，是如此的崎嶇 是如此的陳腔濫調 只需毫無保留的聳聳肩，毋須任何言語"
+      "time": 49.788,
+      "en": "Used to jump and then fall, rugged and cliched",
+      "zh": "習慣跳躍後的墜落，是如此的崎嶇 是如此地陳腔濫調"
+    },
+    {
+      "time": 52.308,
+      "en": "Would shrug it off without complaint, not a sound",
+      "zh": "只是不發一語地聳聳肩，毫無怨言"
     },
     {
       "time": 54.3,
@@ -61,23 +86,28 @@
     },
     {
       "time": 57.36,
-      "en": "It's when you shoved yourself into a crowded place That you turned around and found yourself in love in outer space",
-      "zh": "當你躋身於繁碌之中 而你回頭時才發現你摯愛於異世"
+      "en": "It's when you shoved yourself into a crowded place",
+      "zh": "當你躋身於繁碌之中"
+    },
+    {
+      "time": 59.944,
+      "en": "that you turned around and found yourself in love in outer space",
+      "zh": "回頭才發現自己眷戀著外部的自由"
     },
     {
       "time": 62.527,
-      "en": "Cue the reckless nights, no strings Laughing at our own dreams",
-      "zh": "在這瘋狂的夜晚之中，嘲笑著自己的夢"
+      "en": "Cue the reckless nights, no strings laughing at our own dreams",
+      "zh": "在這無拘無束的瘋狂夜晚，我們嘲笑著自己的夢想"
     },
     {
-      "time": 65.98,
+      "time": 66.569,
       "en": "Just what the hell was so funny?",
-      "zh": "能有什麼好笑的？"
+      "zh": "可這能有什麼好笑的？"
     },
     {
       "time": 67.6,
       "en": "Bark up the wrong tree, stumble, used to falling great heights",
-      "zh": "早已習慣找錯了目標，在路上摔跤"
+      "zh": "早已習慣了偏離正軌，在路上摔跤"
     },
     {
       "time": 70.14,
@@ -90,29 +120,34 @@
       "zh": "將無聊與麻煩寫進了不悅之中"
     },
     {
-      "time": 75.975,
-      "en": "And though it's history, I can't forget the time that we spent Convinced that this could mean another end",
-      "zh": "即便已經過去，我仍無法忘卻曾經一共的時光 相信存在於虛實之間的結束"
+      "time": 75.641,
+      "en": "And though it's history, I can't forget the time that we spent",
+      "zh": "即便已經過去，我仍無法忘卻曾經一共的時光"
+    },
+    {
+      "time": 78.416,
+      "en": "convinced that this could mean another end",
+      "zh": "相信存在於虛實之間的結束"
     },
     {
       "time": 79.9,
-      "en": "Exists between real and pretend A twisted alter-fiction where I missed my chance, did not ascend",
+      "en": "exists between real and pretend a twisted alter-fiction where I missed my chance, did not ascend",
       "zh": "在虛幻的現實之中我失去了機會"
     },
     {
-      "time": 83.24,
+      "time": 83.955,
       "en": "and disappearing into the mist of never happened",
       "zh": "迷失在那片「未曾發生」的迷霧中"
     },
     {
       "time": 86.256,
       "en": "Is the me that I can never befriend.",
-      "zh": "或許那是我無法掌握的人"
+      "zh": "或許那是我無法結識的自己"
     },
     {
       "time": 88.26,
       "en": "I let it go…",
-      "zh": "於是我讓他走…"
+      "zh": "於是我讓他離去…"
     },
     {
       "time": 90.48,
@@ -122,7 +157,7 @@
     {
       "time": 95.572,
       "en": "Without a direction, floating aimlessly",
-      "zh": "毫無目標的沉浮著"
+      "zh": "毫無目標地沉浮著"
     },
     {
       "time": 100.58,
@@ -142,7 +177,7 @@
     {
       "time": 116.68,
       "en": "I'll never find my way back to you inside this labyrinth of lights",
-      "zh": "我從未為了尋找你而走過回頭路，在這光耀的迷途中"
+      "zh": "在這光耀的迷途中，我仍未找尋到去往你身旁的道路"
     },
     {
       "time": 120.82,
@@ -162,7 +197,7 @@
     {
       "time": 132.14,
       "en": "Chasing fireflies between the soaring high-rises",
-      "zh": "在逐漸升高的地方追逐螢光"
+      "zh": "在聳立的高樓之中追逐螢光"
     },
     {
       "time": 134.88,
@@ -182,12 +217,12 @@
     {
       "time": 142.32,
       "en": "Yet a thought persists, an optimist who ought to be afraid",
-      "zh": "但是一個想法的成長是一個樂觀的人應該害怕的"
+      "zh": "但是一個持續的念頭，讓本該害怕的樂觀者"
     },
     {
       "time": 144.9,
       "en": "Saw the 'nothing wrong' in writing songs behind the lonely shade",
-      "zh": "看過了在寂靜的影中寫著「沒事」"
+      "zh": "在寂寞的陰影中，看到寫曲「也沒什麼不好的」"
     },
     {
       "time": 147.66,
@@ -197,7 +232,7 @@
     {
       "time": 150.419,
       "en": "When the ladder fell and shattered every bar that we had played",
-      "zh": "當競爭的梯子墜落，摧毀了我們演奏過的酒吧"
+      "zh": "當成功的梯子墜落，摧毀了我們曾演奏過的舞台"
     },
     {
       "time": 153.205,
@@ -206,8 +241,13 @@
     },
     {
       "time": 155.863,
-      "en": "And your friends grew tired of fantasy? You're wishing they had stayed?",
-      "zh": "當你的朋友因夢想而疲累，你仍冀望他們能夠持續下去？"
+      "en": "And your friends grew tired of fantasy?",
+      "zh": "當你的朋友因夢想而疲累"
+    },
+    {
+      "time": 157.301,
+      "en": "You're wishing they had stayed?",
+      "zh": "你仍冀望他們能夠持續下去？"
     },
     {
       "time": 158.453,
@@ -227,12 +267,12 @@
     {
       "time": 166.301,
       "en": "You don’t get to be emotional, feel blessed you got it made",
-      "zh": "你不需要情緒化，只需要感謝讓你成功的"
+      "zh": "你不需要情緒化，只要慶幸自己已經成功了"
     },
     {
       "time": 169.081,
       "en": "These the best of years of life because you chose to make a trade",
-      "zh": "這是你人生最好的一年，因為你選擇了交易"
+      "zh": "這是你人生最好的時光，因為你是如此選擇的"
     },
     {
       "time": 171.743,
@@ -240,9 +280,9 @@
       "zh": "想想當時的你所期望和所做的一切"
     },
     {
-      "time": 174.319,
+      "time": 173.989,
       "en": "What is there to miss?",
-      "zh": "那還有什麼值得留念的呢？"
+      "zh": "現在還有什麼好留念的呢？"
     },
     {
       "time": 176.01,
@@ -271,13 +311,13 @@
     },
     {
       "time": 202.211,
-      "en": "I'll never find another chance to say hey thanks for saving my life",
+      "en": "I'll never find another chance to say hey ”Thanks for saving my life”",
       "zh": "我卻從未找到機會向你道謝「謝謝你拯救了我」"
     },
     {
       "time": 206.234,
       "en": "I was hopeless It was stinging driving roadless",
-      "zh": "不循規蹈矩使我感到無助，那折騰著我"
+      "zh": "漫無目的使我感到無助，使我痛苦"
     },
     {
       "time": 210.353,
@@ -385,14 +425,29 @@
       "zh": "醒來吧 到我的人生中 讓我的白日夢"
     },
     {
-      "time": 274.263,
-      "en": "'Til the next flight drowning so long I got older",
-      "zh": "沉浸到下次的啟航 沉溺了這麼久 我也衰老了"
+      "time": 274.169,
+      "en": "'Til the next flight",
+      "zh": "沉浸到下次的啟航"
     },
     {
-      "time": 278.127,
-      "en": "Now the crowd's gone Is it over? Is it over…?",
-      "zh": "現在人都散了 就結束了嗎？ 都結束了嗎…？"
+      "time": 275.529,
+      "en": "drowning so long I got older",
+      "zh": "沉溺了這麼久 我也衰老了"
+    },
+    {
+      "time": 278.31,
+      "en": "Now the crowd's gone",
+      "zh": "現在人都散了"
+    },
+    {
+      "time": 279.599,
+      "en": "Is it over?",
+      "zh": "就結束了嗎？"
+    },
+    {
+      "time": 280.852,
+      "en": "Is it over…?",
+      "zh": "都結束了嗎…？"
     }
   ]
 }
