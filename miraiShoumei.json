@@ -1,6 +1,6 @@
 {
   "title": "未来証明",
-  "status": 2,
+  "status": 3,
   "artist": "白玖ウタノ",
   "lyricist": "優莉",
   "composer": "優莉",
@@ -252,7 +252,7 @@
     {
       "time": 189.592,
       "kanji": "羽 ばたくから！",
-      "furigana": "はね ばたくから！",
+      "furigana": "は ばたくから！",
       "zh": "都能振翅高飛！"
     },
     {
