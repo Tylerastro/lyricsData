@@ -1,5 +1,5 @@
 {
-  "id": 5,
+  "id": 4,
   "title": "ちゅ、多様性",
   "status": 1,
   "artist": "Ano",
@@ -257,29 +257,56 @@
       "zh": "很舒服呢 雖然有夠麻煩",
       "furigana": "きもちいいね　めんどうくさいけど"
     },
-    { "time": 0.0, "kanji": "やっぱ照れくさいけど", "zh": "果然很難為情啊" },
+    {
+      "time": 0.0,
+      "kanji": "やっぱ照れくさいけど",
+      "zh": "果然很難為情啊"
+    },
     {
       "time": 0.0,
       "kanji": "死ぬまで忘れられないチューしよ",
       "zh": "親吻到死前一刻亦絕不會忘卻吧"
     },
-
     {
       "time": 0.0,
       "kanji": "いかれた街は　ゾンビで溢れる",
       "zh": "異常的死城 堆滿殭屍"
     },
-    { "time": 0.0, "kanji": "君は僕に恋してる", "zh": "你愛慕着我" },
+    {
+      "time": 0.0,
+      "kanji": "君は僕に恋してる",
+      "zh": "你愛慕着我"
+    },
     {
       "time": 0.0,
       "kanji": "ときめく胸に　繋がるロープを引きなよ",
       "zh": "拉起連繫着 你我雀躍內心的繩索吧"
     },
-    { "time": 0.0, "kanji": "いくよ", "zh": "要上囉" },
-    { "time": 0.0, "kanji": "Bet bet bet on! ", "zh": "Bet bet bet on! " },
-    { "time": 0.0, "kanji": "Bet bet bet on! ", "zh": "Bet bet bet on! " },
-    { "time": 0.0, "kanji": "Bet on chu!", "zh": "Bet on chu!" },
-    { "time": 0.0, "kanji": "Bet bet bet on! ", "zh": "Bet bet bet on! " },
+    {
+      "time": 0.0,
+      "kanji": "いくよ",
+      "zh": "要上囉"
+    },
+    {
+      "time": 0.0,
+      "kanji": "Bet bet bet on! ",
+      "zh": "Bet bet bet on! "
+    },
+    {
+      "time": 0.0,
+      "kanji": "Bet bet bet on! ",
+      "zh": "Bet bet bet on! "
+    },
+    {
+      "time": 0.0,
+      "kanji": "Bet on chu!",
+      "zh": "Bet on chu!"
+    },
+    {
+      "time": 0.0,
+      "kanji": "Bet bet bet on! ",
+      "zh": "Bet bet bet on! "
+    },
     {
       "time": 0.0,
       "kanji": "Bet bet bet bet on chu!",
@@ -295,10 +322,26 @@
       "kanji": "鬱々しさが　美しいでしょ",
       "zh": "這份鬱鬱不樂 亦很美麗對吧"
     },
-    { "time": 0.0, "kanji": "Get get get on! ", "zh": "Get get get on! " },
-    { "time": 0.0, "kanji": "Get get get on! ", "zh": "Get get get on! " },
-    { "time": 0.0, "kanji": "Get on chu!", "zh": "Get on chu!" },
-    { "time": 0.0, "kanji": "Get get get on! ", "zh": "Get get get on! " },
+    {
+      "time": 0.0,
+      "kanji": "Get get get on! ",
+      "zh": "Get get get on! "
+    },
+    {
+      "time": 0.0,
+      "kanji": "Get get get on! ",
+      "zh": "Get get get on! "
+    },
+    {
+      "time": 0.0,
+      "kanji": "Get on chu!",
+      "zh": "Get on chu!"
+    },
+    {
+      "time": 0.0,
+      "kanji": "Get get get on! ",
+      "zh": "Get get get on! "
+    },
     {
       "time": 0.0,
       "kanji": "Get get get get on chu!",
@@ -314,9 +357,25 @@
       "kanji": "Get Get Get on chu!",
       "zh": "Get Get Get on chu!"
     },
-    { "time": 0.0, "kanji": "ほらね", "zh": "你看吧 " },
-    { "time": 0.0, "kanji": "我爱你(ウォーアイニー)", "zh": "我愛你" },
-    { "time": 0.0, "kanji": "無問題(モウマンタイ)", "zh": "冇問題" },
-    { "time": 0.0, "kanji": "Get Get Get on chu!", "zh": "Get Get Get on chu!" }
+    {
+      "time": 0.0,
+      "kanji": "ほらね",
+      "zh": "你看吧 "
+    },
+    {
+      "time": 0.0,
+      "kanji": "我爱你(ウォーアイニー)",
+      "zh": "我愛你"
+    },
+    {
+      "time": 0.0,
+      "kanji": "無問題(モウマンタイ)",
+      "zh": "冇問題"
+    },
+    {
+      "time": 0.0,
+      "kanji": "Get Get Get on chu!",
+      "zh": "Get Get Get on chu!"
+    }
   ]
 }
