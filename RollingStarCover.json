@@ -1,222 +1,222 @@
 {
-  "id": 26,
+  "id": 18,
   "title": "Rolling star",
-  "status": 2,
-  "artist": "Yui",
+  "status": 1,
+  "artist": "白玖ウタノ",
   "lyricist": "Yui",
   "composer": "Yui",
   "arranger": "northa+",
   "translator": "TYPE",
-  "start_at": 0.0,
-  "url": "L1RG1YqWwuo?si=7wxNK5aHwi1aa85b",
+  "start_at": 5605,
+  "url": "99I9UeLbTjY?si=3zF_Hky32k9ChJlE",
   "url_translation": "https://home.gamer.com.tw/artwork.php?sn=5860520",
   "lyrics": [
     {
-      "time": 14.397,
+      "time": 5620.247,
       "kanji": "もう 我慢 ばっかしてらんないよ",
       "furigana": "もう がまん ばっかしてらんないよ",
       "zh": "我已經不想要壓抑自己"
     },
     {
-      "time": 17.341,
+      "time": 5623.191000000001,
       "kanji": "言 いたいことは 言 わなくちゃ",
       "furigana": "い いたいことは い わなくちゃ",
       "zh": "我想要說出我內心感受"
     },
     {
-      "time": 20.209,
+      "time": 5626.059,
       "kanji": "帰 り 道 夕暮 れのバス 停",
       "furigana": "かえ り みち ゆうぐ れのバス てい",
       "zh": "回家路上 夕陽西下的巴士站"
     },
     {
-      "time": 23.213,
+      "time": 5629.063,
       "kanji": "落 ちこんだ 背中 に bye bye bye",
       "furigana": "お ちこんだ せなか に bye bye bye",
       "zh": "向我陰鬱的背影說聲道別"
     },
     {
-      "time": 26,
+      "time": 5631.85,
       "kanji": "君 の fighting pose 見 せなきゃ oh! Oh!",
       "furigana": "きみ の fighting pose み せなきゃ oh! Oh!",
       "zh": "讓我看見你的戰鬥姿態 Oh! Oh!"
     },
     {
-      "time": 32.135,
+      "time": 5637.985000000001,
       "kanji": "夢 にまで 見 たような 世界 は",
       "furigana": "ゆめ にまで み たような せかい は",
       "zh": "感覺如夢似幻的世界"
     },
     {
-      "time": 35.154,
+      "time": 5641.004000000001,
       "kanji": "争 いもなく 平和 な 日常",
       "furigana": "あらそ いもなく へいわ な にちじょう",
       "zh": "毫無爭端和平的日常"
     },
     {
-      "time": 38.193,
+      "time": 5644.043000000001,
       "kanji": "でも 現実 は 日々 トラブッて",
       "furigana": "でも げんじつ は ひび トラブッて",
       "zh": "但是現實總是有無數個麻煩"
     },
     {
-      "time": 41,
+      "time": 5646.85,
       "kanji": "たまに 悔 やんだりしてる そんな rolling days",
       "furigana": "たまに く やんだりしてる そんな rolling days",
       "zh": "有時會後悔自己失敗的日子"
     },
     {
-      "time": 57.388,
+      "time": 5663.238,
       "kanji": "転 んじゃったって いいんじゃないの",
       "furigana": "ころ んじゃったって いいんじゃないの",
       "zh": "失敗就當作沒發生就好了吧"
     },
     {
-      "time": 60.159,
+      "time": 5666.009,
       "kanji": "そんときは 笑 ってあげる",
       "furigana": "そんときは わら ってあげる",
       "zh": "當失敗時只要微笑帶過就好"
     },
     {
-      "time": 63.395,
+      "time": 5669.245000000001,
       "kanji": "乗 り 込 んだバスの 奥 から",
       "furigana": "の り こ んだバスの おく から",
       "zh": "從我搭乘的巴士裡面"
     },
     {
-      "time": 66.437,
+      "time": 5672.287,
       "kanji": "ちいさく ほほえみが 見 えた",
       "furigana": "ちいさく ほほえみが み えた",
       "zh": "可以看見小小的笑容"
     },
     {
-      "time": 68.902,
+      "time": 5674.752,
       "kanji": "君 を 頼 りにしてるよ oh! Oh!",
       "furigana": "きみ を たよ りにしてるよ oh! Oh!",
       "zh": "我很依靠你喔!Oh! Oh!"
     },
     {
-      "time": 74.982,
+      "time": 5680.832,
       "kanji": "夢 にまで 見 たような sweet love",
       "furigana": "ゆめ にまで み たような sweet love",
       "zh": "如夢似幻甜美的戀愛"
     },
     {
-      "time": 77.784,
+      "time": 5683.634,
       "kanji": "恋人 たちは 隠 れ 家 を 探 すの",
       "furigana": "こいびと たちは かく れ が を さが すの",
       "zh": "戀人們尋找藏身之處"
     },
     {
-      "time": 81.276,
+      "time": 5687.126,
       "kanji": "でも 現実 は 会 えない 日 が",
       "furigana": "でも げんじつ は あ えない ひ が",
       "zh": "但是現實裡無法相見的日子裡"
     },
     {
-      "time": 83.849,
+      "time": 5689.6990000000005,
       "kanji": "続 きながらも 信 じてるの rolling days",
       "furigana": "つづ きながらも しん じてるの rolling days",
       "zh": "我仍依舊堅信依舊繼續的日常"
     },
     {
-      "time": 88,
+      "time": 5693.85,
       "kanji": "Oh yeah, oh",
       "furigana": "Oh yeah, oh",
       "zh": ""
     },
     {
-      "time": 91.17,
+      "time": 5697.02,
       "kanji": "つまずいたって way to go!",
       "furigana": "つまずいたって way to go!",
       "zh": "就算受挫失敗Way to go!!"
     },
     {
-      "time": 94.571,
+      "time": 5700.421,
       "kanji": "Yeah! Yeah! 泥 だらけ rolling star!",
       "furigana": "Yeah! Yeah! どろ だらけ rolling star!",
       "zh": "Yeah! Yeah! 滿是泥濘 Rolling star!!"
     },
     {
-      "time": 114.787,
+      "time": 5720.637000000001,
       "kanji": "なるべく 笑顔 でいたいけれど",
       "furigana": "なるべく えがお でいたいけれど",
       "zh": "雖然想要盡可能露出笑容"
     },
     {
-      "time": 120.153,
+      "time": 5726.003000000001,
       "kanji": "守 り 抜 くためには 仕方 ないでしょ?",
       "furigana": "まも り ぬ くためには しかた ないでしょ?",
       "zh": "為了守護一切也是沒辦法的?"
     },
     {
-      "time": 125.495,
+      "time": 5731.345,
       "kanji": "きっと 嘘 なんて そう 意味 を 持 たないの",
       "furigana": "きっと うそ なんて そう いみ を も たないの",
       "zh": "我確信謊言並沒有很大的意義"
     },
     {
-      "time": 131.223,
+      "time": 5737.073,
       "kanji": "All my loving",
       "furigana": "All my loving",
       "zh": "為了我所有珍愛的一切"
     },
     {
-      "time": 133.805,
+      "time": 5739.655000000001,
       "kanji": "そうじゃなきゃ やってらんない",
       "furigana": "そうじゃなきゃ やってらんない",
       "zh": "如果不這樣的話 誰願意去做"
     },
     {
-      "time": 139.272,
+      "time": 5745.122,
       "kanji": "夢 にまで 見 たような 世界 は",
       "furigana": "ゆめ にまで み たような せかい は",
       "zh": "感覺如夢似幻的世界"
     },
     {
-      "time": 142.146,
+      "time": 5747.996,
       "kanji": "争 いもなく 平和 な 日常",
       "furigana": "あらそ いもなく へいわ な にちじょう",
       "zh": "毫無爭端和平的日常"
     },
     {
-      "time": 145.182,
+      "time": 5751.032,
       "kanji": "でも 現実 は 日々 トラブッて",
       "furigana": "でも げんじつ は ひび トラブッて",
       "zh": "但是現實總是有無數個麻煩"
     },
     {
-      "time": 147.745,
+      "time": 5753.595,
       "kanji": "たまに 悔 やんだりしてる そんな rolling days",
       "furigana": "たまに く やんだりしてる そんな rolling days",
       "zh": "有時會後悔自己失敗的日子"
     },
     {
-      "time": 151.828,
+      "time": 5757.678000000001,
       "kanji": "Oh yeah, oh",
       "furigana": "Oh yeah, oh",
       "zh": ""
     },
     {
-      "time": 155.254,
+      "time": 5761.104,
       "kanji": "そう わかってるって",
       "furigana": "そう わかってるって",
       "zh": "沒錯 我早就知道答案了"
     },
     {
-      "time": 157.792,
+      "time": 5763.642000000001,
       "kanji": "Oh yeah, oh",
       "furigana": "Oh yeah, oh",
       "zh": ""
     },
     {
-      "time": 161.296,
+      "time": 5767.146000000001,
       "kanji": "つまずいたって way to go!",
       "furigana": "つまずいたって way to go!",
       "zh": "就算受挫失敗Way to go!!"
     },
     {
-      "time": 164.594,
+      "time": 5770.444,
       "kanji": "Yeah! Yeah! 泥 だらけ rolling star!",
       "furigana": "Yeah! Yeah! どろ だらけ rolling star!",
       "zh": "Yeah! Yeah! 滿是泥濘 Rolling star!!"
