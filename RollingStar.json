@@ -1,7 +1,7 @@
 {
   "id": 26,
   "title": "Rolling star",
-  "status": 2,
+  "status": 3,
   "artist": "Yui",
   "lyricist": "Yui",
   "composer": "Yui",
@@ -72,7 +72,7 @@
       "zh": "失敗就當作沒發生就好了吧"
     },
     {
-      "time": 60.159,
+      "time": 60.591,
       "kanji": "そんときは 笑 ってあげる",
       "furigana": "そんときは わら ってあげる",
       "zh": "當失敗時只要微笑帶過就好"
