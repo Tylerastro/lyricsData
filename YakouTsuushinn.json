@@ -1,7 +1,7 @@
 {
-  "id": 17,
+  "id": 19,
   "title": "夜光通信",
-  "status": 2,
+  "status": 3,
   "artist": "Ookami Mio",
   "lyricist": "堀江晶太",
   "composer": "堀江晶太",
@@ -288,7 +288,7 @@
       "zh": "眼底深處 永遠 定能"
     },
     {
-      "time": 174.644,
+      "time": 174.994,
       "kanji": "会 えるからね",
       "furigana": "あ えるからね",
       "zh": "與你再見呢"
