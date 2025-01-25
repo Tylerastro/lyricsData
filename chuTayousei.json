@@ -1,7 +1,7 @@
 {
-  "id": 6,
+  "id": 8,
   "title": "ちゅ、多様性",
-  "status": 1,
+  "status": 2,
   "artist": "Ano",
   "lyricist": "あの / 真部脩一 ",
   "composer": "真部脩一",
@@ -12,370 +12,333 @@
   "url_translation": "https://home.gamer.com.tw/artwork.php?sn=5606646",
   "lyrics": [
     {
-      "time": 12.981,
-      "kanji": "我 爱 你",
-      "zh": "我愛你",
-      "furigana": "うぉー あい にー"
+      "time": 13.157,
+      "kanji": "我愛你 酔いが覚めない",
+      "furigana": "われあいよいがさめない",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 14.899,
-      "kanji": "酔 いが 覚 めない",
-      "zh": "醉意不去",
-      "furigana": "よ いが さ めない"
+      "time": 16.177,
+      "kanji": "Oh, I need you 恋が醒めない",
+      "furigana": "Oh, I need you こいがさめない",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 16.123,
-      "kanji": "Oh, I need you 恋 が 醒 めない",
-      "zh": "Oh, I need you 情意不醒",
-      "furigana": "Oh, I need you こい が さ めない"
+      "time": 19.267,
+      "kanji": "お生憎様の慣れ果て察して",
+      "furigana": "おあいにくようのなれはてさして",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 19.559,
-      "kanji": "お 生憎様 の 慣 れ 果 て 察 して",
-      "zh": "察覺到習慣不幸的末路",
-      "furigana": "お あいにくよう の な れ は て さ して"
+      "time": 25.521,
+      "kanji": "無問題 破滅してみて",
+      "furigana": "むもんだい はめつしてみて",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 25.73,
-      "kanji": "無問題",
-      "zh": "冇問題",
-      "furigana": "むもんだい"
+      "time": 28.744,
+      "kanji": "Hold me tight トラウマの味",
+      "furigana": "Hold me tight とらうまのあじ",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 27.695,
-      "kanji": "破滅 してみて",
-      "zh": "試試讓其毀滅",
-      "furigana": "はめつ してみて"
+      "time": 32,
+      "kanji": "猛反対 お手お座りでハイ 報酬",
+      "furigana": "もうはんたい おておすわりではい ほうしゅう",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 28.955,
-      "kanji": "Hold me tight トラウマの 味",
-      "zh": "Hold me tight 創傷的滋味",
-      "furigana": "Hold me tight トラウマの あじ"
-    },
-    {
-      "time": 32.025,
-      "kanji": "猛反対　お手お座りでハイ♥報酬",
-      "zh": "極力反對 伸手、坐下 給你♥獎勵",
-      "furigana": "もうはんたい　おておすわりではい♥ほうしゅう"
-    },
-    {
-      "time": 37.835,
-      "kanji": "喉 の 奥 がチクンチクン",
-      "zh": "喉嚨深處隱隱作痛",
-      "furigana": "のど の おく がチクンチクン"
-    },
-    {
-      "time": 41.239,
-      "kanji": "僕 はドクンドクン",
-      "zh": "我的心處小鹿亂撞",
-      "furigana": "ぼく はドクンドクン"
-    },
-    {
-      "time": 44.489,
-      "kanji": "鼓動 で 孤独消 してみせてよ",
-      "zh": "用怦然心動消除孤獨看看吧",
-      "furigana": "こどう で こどくけ してみせてよ"
-    },
-    {
-      "time": 50.349,
-      "kanji": "愛 も 恋 も 独裁 して",
-      "zh": "愛情戀情都獨斷獨行",
-      "furigana": "あい も こい も どくさい して"
-    },
-    {
-      "time": 0.0,
-      "kanji": "僕 を 独占 して",
-      "zh": "把我獨自佔有",
-      "furigana": "ぼく を どくせん して"
-    },
-    {
-      "time": 0.0,
-      "kanji": "このまま 中毒 になるまでチューしよ",
-      "zh": "就這樣親吻到不能自拔為止吧",
-      "furigana": "このまま ちゅうどく になるまでチューしよ"
-    },
-    {
-      "time": 0.0,
-      "kanji": "そして",
-      "zh": "然後",
-      "furigana": "そして"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! ",
-      "furigana": "Get get get on! "
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! ",
-      "furigana": "Get get get on! "
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get on chu!",
-      "zh": "Get on chu!",
-      "furigana": "Get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! ",
-      "furigana": "Get get get on! "
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get get on chu!",
-      "zh": "Get get get get on chu!",
-      "furigana": "Get get get get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "熱く とろけるくらいに溢れた気持ちが",
-      "zh": "燙熱 幾近讓全身融化般滿溢的心情 ",
-      "furigana": "あつく とろけるくらいにあふれたきもちが"
-    },
-    {
-      "time": 0.0,
-      "kanji": "たまらないでしょ",
-      "zh": "已經按捺不住了吧",
-      "furigana": "たまらないでしょ"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! ",
-      "furigana": "Get get get on! "
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! ",
-      "furigana": "Get get get on! "
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get on chu!",
-      "zh": "Get on chu!",
-      "furigana": "Get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! ",
-      "furigana": "Get get get on! "
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get get on chu!",
-      "zh": "Get get get get on chu!",
-      "furigana": "Get get get get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get on! Get on!",
-      "zh": "Get on! Get on!",
-      "furigana": "Get on! Get on!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "我爱你(ウォーアイニー)",
-      "zh": "我愛你",
-      "furigana": "われ(うぉーあいにー)"
-    },
-    {
-      "time": 0.0,
-      "kanji": "無問題",
-      "zh": "冇問題",
-      "furigana": "むもんだい"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get Get Get on chu!",
-      "zh": "Get Get Get on chu!",
-      "furigana": "Get Get Get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "ポン・チー・カン　勝負はいつも",
-      "zh": "碰・吃・槓？勝負向來都是",
-      "furigana": "ぽん・ちー・かん　しょうぶはいつも"
-    },
-    {
-      "time": 0.0,
-      "kanji": "トンチンカン　僕に言わせりゃ",
-      "zh": "自相矛盾 硬要我說的話",
-      "furigana": "とんちんかん　ぼくにいわせりゃ"
-    },
-    {
-      "time": 0.0,
-      "kanji": "ちんぷんかんぷんだ　最後はロンでしょ？",
-      "zh": "根本糊里糊塗？最後是糊對吧？",
-      "furigana": "ちんぷんかんぷんだ　さいごはろんでしょ？"
-    },
-    {
-      "time": 0.0,
-      "kanji": "もう何回？ 殺られればいい",
-      "zh": "都幾次了？？被殺掉就好了？",
-      "furigana": "もうなんかい？ さつられればいい"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Oh, One night　忘れられない",
-      "zh": "Oh, One night 完全無法忘懷",
-      "furigana": "Oh, One night　わすれられない"
-    },
-    {
-      "time": 0.0,
-      "kanji": "終わんないでトキメキ偏愛♥予習",
-      "zh": "不要結束這讓人心動的偏愛♥預習",
-      "furigana": "おわんないでときめきへんあい♥よしゅう"
-    },
-    {
-      "time": 0.0,
+      "time": 37.701,
       "kanji": "喉の奥がチクンチクン",
-      "zh": "喉嚨深處隱隱作痛",
-      "furigana": "のどのおくがちくんちくん"
+      "furigana": "のどのおくがちくんちくん",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
+      "time": 41.2,
       "kanji": "僕はドクンドクン",
-      "zh": "我的心處小鹿亂撞",
-      "furigana": "ぼくはどくんどくん"
+      "furigana": "ぼくはどくんどくん",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "心臓ごと　引きずり出してみせてよ",
-      "zh": "整顆心臟 把它拉扯出來看看吧",
-      "furigana": "しんぞうごと　ひきずりだしてみせてよ"
+      "time": 44.362,
+      "kanji": "鼓動で孤独消してみせてよ",
+      "furigana": "こどうでこどくけしてみせてよ",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "きもちいいね　面倒くさいけど",
-      "zh": "很舒服呢 雖然有夠麻煩",
-      "furigana": "きもちいいね　めんどうくさいけど"
+      "time": 50.175,
+      "kanji": "愛も恋も独裁して",
+      "furigana": "あいもこいもどくさいして",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
+      "time": 53.719,
+      "kanji": "僕を独占して",
+      "furigana": "ぼくをどくせんして",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 56.948,
+      "kanji": "このまま中毒になるまでチューしよ",
+      "furigana": "このままちゅうどくになるまでちゅーしよ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 62.743,
+      "kanji": "そして",
+      "furigana": "そして",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 63.314,
+      "kanji": "Get-get-get on! Get-get-get on! Get on chu!",
+      "furigana": "Get-get-get on! Get-get-get on! Get on chu!",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 66.351,
+      "kanji": "Get-get-get on! Get-get-get-get on chu!",
+      "furigana": "Get-get-get on! Get-get-get-get on chu!",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 68.863,
+      "kanji": "熱く とろけるくらいに溢れた気持ちが",
+      "furigana": "あつく とろけるくらいにあふれたきもちが",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 74.407,
+      "kanji": "たまらないでしょ",
+      "furigana": "たまらないでしょ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 75.673,
+      "kanji": "Get-get-get on! Get-get-get on! Get on chu!",
+      "furigana": "Get-get-get on! Get-get-get on! Get on chu!",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 78.88,
+      "kanji": "Get-get-get on! Get-get-get-get on chu! Get on! Get on!",
+      "furigana": "Get-get-get on! Get-get-get-get on chu! Get on! Get on!",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 82.473,
+      "kanji": "我愛你 無問題",
+      "furigana": "われあいむもんだい",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 85.441,
+      "kanji": "Get, get, get on chu!",
+      "furigana": "Get, get, get on chu!",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 88.57,
+      "kanji": "ポンチーカン 勝負はいつも",
+      "furigana": "ぽんちーかん しょうぶはいつも",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 91.651,
+      "kanji": "トンチンカン 僕に言わせりゃ",
+      "furigana": "とんちんかん ぼくにいわせりゃ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 94.97,
+      "kanji": "ちんぷんかんぷんだ 最後はロンでしょ？",
+      "furigana": "ちんぷんかんぷんだ さいごはろんでしょ？",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 100.891,
+      "kanji": "もう何回？殺られればいい",
+      "furigana": "もうなんかい？さつられればいい",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 104.177,
+      "kanji": "Oh, one night 忘れられない",
+      "furigana": "Oh, one night わすれられない",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 107.207,
+      "kanji": "終わんないでトキメキ偏愛 予習",
+      "furigana": "おわんないでときめきへんあい よしゅう",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 112.892,
+      "kanji": "喉の奥がチクンチクン",
+      "furigana": "のどのおくがちくんちくん",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 116.528,
+      "kanji": "僕はドクンドクン",
+      "furigana": "ぼくはどくんどくん",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 119.68,
+      "kanji": "心臓ごと 引きずり出してみせてよ",
+      "furigana": "しんぞうごと ひきずりだしてみせてよ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 125.379,
+      "kanji": "きもちいいね 面倒くさいけど",
+      "furigana": "きもちいいね めんどうくさいけど",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 129.009,
       "kanji": "やっぱ照れくさいけど",
-      "zh": "果然很難為情啊"
+      "furigana": "やっぱてれくさいけど",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
+      "time": 132.15,
       "kanji": "死ぬまで忘れられないチューしよ",
-      "zh": "親吻到死前一刻亦絕不會忘卻吧"
+      "furigana": "しぬまでわすれられないちゅーしよ",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "いかれた街は　ゾンビで溢れる",
-      "zh": "異常的死城 堆滿殭屍"
+      "time": 138.227,
+      "kanji": "いかれた街は ゾンビで溢れる",
+      "furigana": "いかれたまちは ぞんびであふれる",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
+      "time": 142.054,
       "kanji": "君は僕に恋してる",
-      "zh": "你愛慕着我"
+      "furigana": "くんはぼくにこいしてる",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "ときめく胸に　繋がるロープを引きなよ",
-      "zh": "拉起連繫着 你我雀躍內心的繩索吧"
+      "time": 144.326,
+      "kanji": "ときめく胸に 繋がるロープを引きなよ",
+      "furigana": "ときめくむねに つながるろーぷをひきなよ",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
+      "time": 147.705,
       "kanji": "いくよ",
-      "zh": "要上囉"
+      "furigana": "いくよ",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Bet bet bet on! ",
-      "zh": "Bet bet bet on! "
+      "time": 150.666,
+      "kanji": "Bet-bet-bet on! Bet-bet-bet on! Bet on chu!",
+      "furigana": "Bet-bet-bet on! Bet-bet-bet on! Bet on chu!",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Bet bet bet on! ",
-      "zh": "Bet bet bet on! "
+      "time": 154.125,
+      "kanji": "Bet-bet-bet on! Bet-bet-bet-bet on chu!",
+      "furigana": "Bet-bet-bet on! Bet-bet-bet-bet on chu!",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Bet on chu!",
-      "zh": "Bet on chu!"
+      "time": 156.726,
+      "kanji": "マジでで狂えるくらいの鬱々しさが",
+      "furigana": "まじでできょうえるくらいのうつ々しさが",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Bet bet bet on! ",
-      "zh": "Bet bet bet on! "
+      "time": 162.445,
+      "kanji": "美しいでしょ",
+      "furigana": "うつくしいでしょ",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Bet bet bet bet on chu!",
-      "zh": "Bet bet bet bet on chu!"
+      "time": 163.665,
+      "kanji": "Get-get-get on! Get-get-get on! Get on chu!",
+      "furigana": "Get-get-get on! Get-get-get on! Get on chu!",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "本気(マジ)で狂えるくらいの",
-      "zh": "幾乎真的快要發狂似的 "
+      "time": 166.823,
+      "kanji": "Get-get-get on! Get-get-get-get on chu!",
+      "furigana": "Get-get-get on! Get-get-get-get on chu!",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "鬱々しさが　美しいでしょ",
-      "zh": "這份鬱鬱不樂 亦很美麗對吧"
+      "time": 169.045,
+      "kanji": "せーの ポンチーカン 終わんない",
+      "furigana": "せーの ぽんちーかん おわんない",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! "
+      "time": 173.038,
+      "kanji": "Get, get, get on chu!",
+      "furigana": "Get, get, get on chu!",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! "
+      "time": 175.567,
+      "kanji": "ほらね 我愛你 無問題",
+      "furigana": "ほらね われあいむもんだい",
+      "en": "",
+      "zh": ""
     },
     {
-      "time": 0.0,
-      "kanji": "Get on chu!",
-      "zh": "Get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get on! ",
-      "zh": "Get get get on! "
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get get get get on chu!",
-      "zh": "Get get get get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "せーの　ポン・チー・カン　終わんない",
-      "zh": "來預備 碰・吃・槓 沒完沒了"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get Get Get on chu!",
-      "zh": "Get Get Get on chu!"
-    },
-    {
-      "time": 0.0,
-      "kanji": "ほらね",
-      "zh": "你看吧 "
-    },
-    {
-      "time": 0.0,
-      "kanji": "我爱你(ウォーアイニー)",
-      "zh": "我愛你"
-    },
-    {
-      "time": 0.0,
-      "kanji": "無問題(モウマンタイ)",
-      "zh": "冇問題"
-    },
-    {
-      "time": 0.0,
-      "kanji": "Get Get Get on chu!",
-      "zh": "Get Get Get on chu!"
+      "time": 179.138,
+      "kanji": "Get, get, get on chu!",
+      "furigana": "Get, get, get on chu!",
+      "en": "",
+      "zh": ""
     }
   ]
 }
