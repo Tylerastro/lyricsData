@@ -1,7 +1,7 @@
 {
-  "id": 24,
+  "id": 28,
   "title": "【Cover】Rolling star",
-  "status": 2,
+  "status": 3,
   "artist": "白玖ウタノ",
   "lyricist": "Yui",
   "composer": "Yui",
@@ -24,7 +24,7 @@
       "zh": "我想要說出我內心感受"
     },
     {
-      "time": 5626.94,
+      "time": 5626.11,
       "kanji": "帰 り 道 夕暮 れのバス 停",
       "furigana": "かえ り みち ゆうぐ れのバス てい",
       "zh": "回家路上 夕陽西下的巴士站"
