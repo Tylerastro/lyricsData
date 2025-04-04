@@ -1,7 +1,7 @@
 {
   "id": 27,
   "title": "ザイオン",
-  "status": 2,
+  "status": 3,
   "artist": "星街すいせい",
   "lyricist": "星街すいせい",
   "composer": "Yoko Shimomura",
@@ -150,7 +150,7 @@
       "zh": "對於有多少揮舞的正義旗幟"
     },
     {
-      "time": 93.61,
+      "time": 93.963,
       "kanji": "心 があることを 知 らずに",
       "furigana": "こころ があることを し らずに",
       "en": "",
