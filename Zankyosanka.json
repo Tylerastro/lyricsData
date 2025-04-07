@@ -1,7 +1,7 @@
 {
   "id": 7,
-  "title": "殘響散歌",
-  "status": 2,
+  "title": "残響散歌",
+  "status": 3,
   "artist": "Aimer",
   "lyricist": "Aimerrhythm",
   "composer": "飛内将大",
@@ -182,7 +182,7 @@
     {
       "time": 142.415,
       "kanji": "声 をからして 燃 える 花 のように 闇間 を 照 らしたら",
-      "furigana": "こえ をからして も える はな のように やみかん を て らしたら",
+      "furigana": "こえ をからして も える はな のように やみま を て らしたら",
       "en": "",
       "zh": "嘶聲如浴火芳華 將黑暗縫隙照亮"
     },
@@ -196,7 +196,7 @@
     {
       "time": 153.664,
       "kanji": "夜 を 数 えて 朝 を 描 く 様 な 鮮 やかな 音 を 鳴 らす",
-      "furigana": "よる を かぞ えて あさ を えが く よう な せん やかな おと を な らす",
+      "furigana": "よる を かぞ えて あさ を えが く よう な あざ やかな ね を な らす",
       "en": "",
       "zh": "如同細數黑夜 描繪清晨那般 鳴響鮮豔之音"
     },
@@ -224,7 +224,7 @@
     {
       "time": 171.037,
       "kanji": "Da-ra-tat ta, da-ra-tat ta",
-      "furigana": "Da-ra-tat ta, da-ra-tat ta",
+      "furigana": "",
       "en": "",
       "zh": ""
     },
@@ -238,7 +238,7 @@
     {
       "time": 176.732,
       "kanji": "Da-ra-tat ta, da-ra-tat ta-ra",
-      "furigana": "Da-ra-tat ta, da-ra-tat ta-ra",
+      "furigana": "",
       "en": "",
       "zh": ""
     }
