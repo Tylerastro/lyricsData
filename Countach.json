@@ -1,0 +1,456 @@
+{
+  "id": 48,
+  "title": "Countach",
+  "status": 1,
+  "artist": "轟はじめ",
+  "lyricist": "浦島健太",
+  "composer": "山元祐介",
+  "arranger": "山元祐介",
+  "translator": "",
+  "start_at": 0,
+  "url": "eB2kswPDFaI?si=-i3RmjLcKeE2yOs7",
+  "url_translation": "https://home.gamer.com.tw/artwork.php?sn=6071971",
+  "lyrics": [
+    {
+      "time": 12.377,
+      "kanji": "ネ ェ ナ ン ノ タ メ ガ ン バ ン ノ",
+      "furigana": "ネ ェ ナ ン ノ タ メ ガ ン バ ン ノ",
+      "en": "",
+      "zh": "吶 到底是為了甚麼而努力呢"
+    },
+    {
+      "time": 14.808,
+      "kanji": "報 わ れ な い Day by Day",
+      "furigana": "むく わ れ な い Day by Day",
+      "en": "",
+      "zh": "日復一日得不到任何回報"
+    },
+    {
+      "time": 16.933,
+      "kanji": "結局 正直者 が 道化 師 で 踊 る 残像",
+      "furigana": "けっきょく しょうじきもの が どうけ し で おど る ざんぞう",
+      "en": "",
+      "zh": "到頭來 老實人就只能像個小丑留下手舞足蹈的餘影"
+    },
+    {
+      "time": 21.316,
+      "kanji": "ズ ル 賢 く 生 き て る あ の 子",
+      "furigana": "ズ ル かしこ く い き て る あ の こ",
+      "en": "",
+      "zh": "機靈狡猾地活着的那孩子"
+    },
+    {
+      "time": 25.056,
+      "kanji": "懐 に 舞 い 込 む 優等 生 で し ょ う",
+      "furigana": "ふところ に ま い こ む ゆうとう せい で し ょ う",
+      "en": "",
+      "zh": "想必是輕輕鬆鬆就能獲得青睞的優等生吧"
+    },
+    {
+      "time": 29.811,
+      "kanji": "ア ブ ラ カ タ ブ ラ 開 け る よ Pandora",
+      "furigana": "ア ブ ラ カ タ ブ ラ あ け る よ Pandora",
+      "en": "",
+      "zh": "阿布拉卡達布拉 打開吧潘朵拉的盒子"
+    },
+    {
+      "time": 34.731,
+      "kanji": "抑 え き れ な い の さ 謳 う カ サ ン ド ラ",
+      "furigana": "おさ え き れ な い の さ うた う カ サ ン ド ラ",
+      "en": "",
+      "zh": "再也按捺不住啊 歌頌卡珊德拉的預言"
+    },
+    {
+      "time": 39.021,
+      "kanji": "Six P . M 鳴 る Alarm",
+      "furigana": "Six P . M な る Alarm",
+      "en": "",
+      "zh": "下午六時響起的鬧鈴"
+    },
+    {
+      "time": 40.774,
+      "kanji": "暴 れ 馬 で Crew Like a carnival",
+      "furigana": "あば れ うま で Crew Like a carnival",
+      "en": "",
+      "zh": "夥伴如脫韁之馬恰似嘉年華盛會"
+    },
+    {
+      "time": 42.715,
+      "kanji": "",
+      "furigana": "",
+      "en": "Everybody gonna put your hand's",
+      "zh": "所有人都拍起雙手鼓掌"
+    },
+    {
+      "time": 44.224,
+      "kanji": "",
+      "furigana": "",
+      "en": "clap clap",
+      "zh": ""
+    },
+    {
+      "time": 45.167,
+      "kanji": "ま だ 見 ぬ 世界 飛 び 込 め 3 . 2 . 1",
+      "furigana": "ま だ み ぬ せかい と び こ め 3 . 2 . 1",
+      "en": "",
+      "zh": "縱身躍入那未知的世界3.2.1"
+    },
+    {
+      "time": 47.412,
+      "kanji": "( Doubt ) I got it 壇上 へ",
+      "furigana": "( Doubt ) I got it だんじょう へ",
+      "en": "",
+      "zh": "(Doubt)I got it 登上舞台"
+    },
+    {
+      "time": 49.622,
+      "kanji": "( Doubt ) 体 揺 ら し て",
+      "furigana": "( Doubt ) からだ ゆ ら し て",
+      "en": "",
+      "zh": "(Doubt)搖擺身姿起舞"
+    },
+    {
+      "time": 51.668,
+      "kanji": "( Doubt ) ほ ら 既成 概念",
+      "furigana": "( Doubt ) ほ ら きせい がいねん",
+      "en": "",
+      "zh": "(Doubt)來啦將既有概念"
+    },
+    {
+      "time": 53.787,
+      "kanji": "あ る が ま ま ぶ ち 壊 せ",
+      "furigana": "あ る が ま ま ぶ ち こわ せ",
+      "en": "",
+      "zh": "就這樣通通摧毀掉吧"
+    },
+    {
+      "time": 55.924,
+      "kanji": "( Doubt ) I got it 壇上 へ",
+      "furigana": "( Doubt ) I got it だんじょう へ",
+      "en": "",
+      "zh": "(Doubt)I got it 登上舞台"
+    },
+    {
+      "time": 58.147,
+      "kanji": "( Doubt ) 体 揺 ら し て",
+      "furigana": "( Doubt ) からだ ゆ ら し て",
+      "en": "",
+      "zh": "(Doubt)搖擺身姿起舞"
+    },
+    {
+      "time": 60.489,
+      "kanji": "( Doubt ) ほ ら 既成 概念",
+      "furigana": "( Doubt ) ほ ら きせい がいねん",
+      "en": "",
+      "zh": "(Doubt)來啦將既有概念"
+    },
+    {
+      "time": 62.645,
+      "kanji": "あ る が ま ま ぶ ち 壊 せ",
+      "furigana": "あ る が ま ま ぶ ち こわ せ",
+      "en": "",
+      "zh": "就這樣通通摧毀掉吧"
+    },
+    {
+      "time": 64.875,
+      "kanji": "Countach 最上級 の Countach ( Da - Da )",
+      "furigana": "Countach さいじょうきゅう の Countach ( Da - Da )",
+      "en": "",
+      "zh": "Countach 最頂級的Countach (Da-Da)"
+    },
+    {
+      "time": 69.122,
+      "kanji": "Countach 一心不乱 で Countach ( Da - Da )",
+      "furigana": "Countach いっしんふらん で Countach ( Da - Da )",
+      "en": "",
+      "zh": "Countach 一心不亂地Countach (Da-Da)"
+    },
+    {
+      "time": 73.526,
+      "kanji": "Countach 陰 と 陽 の Countach ( Da - Da - Da )",
+      "furigana": "Countach いん と よう の Countach ( Da - Da - Da )",
+      "en": "",
+      "zh": "Countach 陰與陽的Countach (Da-Da-Da)"
+    },
+    {
+      "time": 77.867,
+      "kanji": "Countach 何度 だ っ て Countach",
+      "furigana": "Countach なんど だ っ て Countach",
+      "en": "",
+      "zh": "Countach 無論多少遍Countach"
+    },
+    {
+      "time": 82.351,
+      "kanji": "息 を ひ そ め て 自分 を 殺 す の は も う 慣 れ て る の",
+      "furigana": "いき を ひ そ め て じぶん を ころ す の は も う な れ て る の",
+      "en": "",
+      "zh": "噤聲屏息扼殺自我這些早就已經習以為常"
+    },
+    {
+      "time": 86.725,
+      "kanji": "存在 価値 存在 証明 な ん て",
+      "furigana": "そんざい かち そんざい しょうめい な ん て",
+      "en": "",
+      "zh": "存在價值 存在證明甚麼的"
+    },
+    {
+      "time": 88.919,
+      "kanji": "ど う で も い い わ",
+      "furigana": "ど う で も い い わ",
+      "en": "",
+      "zh": "怎樣都無所謂了啦"
+    },
+    {
+      "time": 91.353,
+      "kanji": "宴 な ら Endless",
+      "furigana": "うたげ な ら Endless",
+      "en": "",
+      "zh": "若是盛宴就讓它成不散之筵席"
+    },
+    {
+      "time": 92.94,
+      "kanji": "今宵 取 っ 払 う フ ェ ン ス C ' mon , Borderless",
+      "furigana": "こよい と っ ぱら う フ ェ ン ス C ' mon , Borderless",
+      "en": "",
+      "zh": "今夜就拆除阻隔的藩籬 來吧 彼此不分界限"
+    },
+    {
+      "time": 95.145,
+      "kanji": "滅紫 の 雷 浴 び て Perfect",
+      "furigana": "めっし の いかづち あ び て Perfect",
+      "en": "",
+      "zh": "沐浴於滅紫之雷臻至完美"
+    },
+    {
+      "time": 97.107,
+      "kanji": "弾 け 飛 ん で 理性 よ",
+      "furigana": "はじ け と ん で りせい よ",
+      "en": "",
+      "zh": "讓理性飛到九霄雲外吧"
+    },
+    {
+      "time": 100.075,
+      "kanji": "ア ブ ラ カ タ ブ ラ 開 け る よ Pandora",
+      "furigana": "ア ブ ラ カ タ ブ ラ あ け る よ Pandora",
+      "en": "",
+      "zh": "阿布拉卡達布拉 打開吧潘朵拉的盒子"
+    },
+    {
+      "time": 104.328,
+      "kanji": "抑 え き れ な い の さ 謳 う カ サ ン ド ラ",
+      "furigana": "おさ え き れ な い の さ うた う カ サ ン ド ラ",
+      "en": "",
+      "zh": "再也按捺不住啊 歌頌卡珊德拉的預言"
+    },
+    {
+      "time": 109.017,
+      "kanji": "本性 は カ モ フ ラ ー ジ ュ",
+      "furigana": "ほんしょう は カ モ フ ラ ー ジ ュ",
+      "en": "",
+      "zh": "真實本性不過是層偽裝"
+    },
+    {
+      "time": 110.58,
+      "kanji": "本能 だ け で 十分 混 ざ り 合 う",
+      "furigana": "ほんのう だ け で じゅうぶん ま ざ り あ う",
+      "en": "",
+      "zh": "僅憑本能就足以互相交融"
+    },
+    {
+      "time": 113.168,
+      "kanji": "",
+      "furigana": "",
+      "en": "Everybody gonna put your hand's clap clap",
+      "zh": "所有人都拍起雙手鼓掌"
+    },
+    {
+      "time": 115.746,
+      "kanji": "明日 あ す の こ と は 忘 れ ろ 3 . 2 . 1",
+      "furigana": "あした あ す の こ と は わす れ ろ 3 . 2 . 1",
+      "en": "",
+      "zh": "將明日一切都拋諸腦後吧3.2.1"
+    },
+    {
+      "time": 117.329,
+      "kanji": "( Doubt ) 叫 べ 天辺 へ",
+      "furigana": "( Doubt ) さけ べ てっぺん へ",
+      "en": "",
+      "zh": "(Doubt)向頂峰長嘯"
+    },
+    {
+      "time": 119.342,
+      "kanji": "( Doubt ) 声 を 枯 ら し て",
+      "furigana": "( Doubt ) こえ を か ら し て",
+      "en": "",
+      "zh": "(Doubt)喊至嘶聲力竭"
+    },
+    {
+      "time": 121.611,
+      "kanji": "( Doubt ) 君 だ け の 人生",
+      "furigana": "( Doubt ) きみ だ け の じんせい",
+      "en": "",
+      "zh": "(Doubt)這是只屬於你的人生"
+    },
+    {
+      "time": 123.613,
+      "kanji": "楽 し ま な き ゃ 損 じ ゃ な い ?",
+      "furigana": "たの し ま な き ゃ そん じ ゃ な い ?",
+      "en": "",
+      "zh": "不盡情享受豈不是太虧了？"
+    },
+    {
+      "time": 125.867,
+      "kanji": "( Doubt ) 叫 べ 天辺 へ",
+      "furigana": "( Doubt ) さけ べ てっぺん へ",
+      "en": "",
+      "zh": "(Doubt)向頂峰長嘯"
+    },
+    {
+      "time": 127.877,
+      "kanji": "( Doubt ) 声 を 枯 ら し て",
+      "furigana": "( Doubt ) こえ を か ら し て",
+      "en": "",
+      "zh": "(Doubt)喊至嘶聲力竭"
+    },
+    {
+      "time": 130.262,
+      "kanji": "( Doubt ) 君 だ け の 人生",
+      "furigana": "( Doubt ) きみ だ け の じんせい",
+      "en": "",
+      "zh": "(Doubt)這是只屬於你的人生"
+    },
+    {
+      "time": 132.267,
+      "kanji": "楽 し ま な き ゃ 損 じ ゃ な い ?",
+      "furigana": "たの し ま な き ゃ そん じ ゃ な い ?",
+      "en": "",
+      "zh": "不盡情享受豈不是太虧了？"
+    },
+    {
+      "time": 148.493,
+      "kanji": "Six P . M 鳴 る Alarm",
+      "furigana": "Six P . M な る Alarm",
+      "en": "",
+      "zh": "下午六時響起的鬧鈴"
+    },
+    {
+      "time": 149.756,
+      "kanji": "暴 れ 馬 で Crew Like a carnival",
+      "furigana": "あば れ うま で Crew Like a carnival",
+      "en": "",
+      "zh": "夥伴如脫韁之馬恰似嘉年華盛會"
+    },
+    {
+      "time": 151.749,
+      "kanji": "",
+      "furigana": "",
+      "en": "Everybody gonna put your hand's",
+      "zh": "所有人都拍起雙手鼓掌"
+    },
+    {
+      "time": 153.41,
+      "kanji": "",
+      "furigana": "",
+      "en": "clap clap",
+      "zh": ""
+    },
+    {
+      "time": 154.221,
+      "kanji": "ま だ 見 ぬ 世界 飛 び 込 め 3 . 2 . 1",
+      "furigana": "ま だ み ぬ せかい と び こ め 3 . 2 . 1",
+      "en": "",
+      "zh": "縱身躍入那未知的世界3.2.1"
+    },
+    {
+      "time": 157.458,
+      "kanji": "",
+      "furigana": "",
+      "en": "Are you ready?",
+      "zh": "你準備好了嗎？"
+    },
+    {
+      "time": 158.75,
+      "kanji": "( Doubt ) I got it 壇上 へ",
+      "furigana": "( Doubt ) I got it だんじょう へ",
+      "en": "",
+      "zh": "(Doubt)I got it 登上舞台"
+    },
+    {
+      "time": 160.562,
+      "kanji": "( Doubt ) 体 揺 ら し て",
+      "furigana": "( Doubt ) からだ ゆ ら し て",
+      "en": "",
+      "zh": "(Doubt)搖擺身姿起舞"
+    },
+    {
+      "time": 162.924,
+      "kanji": "( Doubt ) ほ ら 既成 概念",
+      "furigana": "( Doubt ) ほ ら きせい がいねん",
+      "en": "",
+      "zh": "(Doubt)來啦將既有概念"
+    },
+    {
+      "time": 165.032,
+      "kanji": "あ る が ま ま ぶ ち 壊 せ",
+      "furigana": "あ る が ま ま ぶ ち こわ せ",
+      "en": "",
+      "zh": "就這樣通通摧毀掉吧"
+    },
+    {
+      "time": 167.258,
+      "kanji": "( Doubt ) I got it 壇上 へ",
+      "furigana": "( Doubt ) I got it だんじょう へ",
+      "en": "",
+      "zh": "(Doubt)I got it 登上舞台"
+    },
+    {
+      "time": 169.349,
+      "kanji": "( Doubt ) 体 揺 ら し て",
+      "furigana": "( Doubt ) からだ ゆ ら し て",
+      "en": "",
+      "zh": "(Doubt)搖擺身姿起舞"
+    },
+    {
+      "time": 171.672,
+      "kanji": "( Doubt ) ほ ら 既成 概念",
+      "furigana": "( Doubt ) ほ ら きせい がいねん",
+      "en": "",
+      "zh": "(Doubt)來啦將既有概念"
+    },
+    {
+      "time": 173.75,
+      "kanji": "あ る が ま ま ぶ ち 壊 せ",
+      "furigana": "あ る が ま ま ぶ ち こわ せ",
+      "en": "",
+      "zh": "就這樣通通摧毀掉吧"
+    },
+    {
+      "time": 176.039,
+      "kanji": "Countach 最上級 の Countach ( Da - Da )",
+      "furigana": "Countach さいじょうきゅう の Countach ( Da - Da )",
+      "en": "",
+      "zh": "Countach 最頂級的Countach (Da-Da)"
+    },
+    {
+      "time": 180.42,
+      "kanji": "Countach 一心不乱 で Countach ( Da - Da )",
+      "furigana": "Countach いっしんふらん で Countach ( Da - Da )",
+      "en": "",
+      "zh": "Countach 一心不亂地Countach (Da-Da)"
+    },
+    {
+      "time": 184.756,
+      "kanji": "Countach 陰 と 陽 の Countach ( Da - Da - Da )",
+      "furigana": "Countach いん と よう の Countach ( Da - Da - Da )",
+      "en": "",
+      "zh": "Countach 陰與陽的Countach (Da-Da-Da)"
+    },
+    {
+      "time": 189.137,
+      "kanji": "Countach 何度 だ っ て Countach",
+      "furigana": "Countach なんど だ っ て Countach",
+      "en": "",
+      "zh": "Countach 無論多少遍Countach"
+    }
+  ]
+}
