@@ -1,7 +1,7 @@
 {
   "id": 51,
   "title": "フィーリングラデーション",
-  "status": 2,
+  "status": 3,
   "artist": "Regloss",
   "lyricist": "OHTORA",
   "composer": "OHTORA／maeshima soshi",
@@ -222,7 +222,7 @@
       "zh": "虛假 欺瞞 都無所遁形的這世界"
     },
     {
-      "time": 133.725,
+      "time": 130.193,
       "kanji": "この 先 はまだ 誰 も 知 らない 正解",
       "furigana": "この さき はまだ だれ も し らない せいかい",
       "en": "",

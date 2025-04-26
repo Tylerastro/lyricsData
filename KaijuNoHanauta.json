@@ -1,12 +1,12 @@
 {
   "id": 34,
   "title": "怪獣の花唄",
-  "status": 2,
+  "status": 3,
   "artist": "Vaundy",
   "lyricist": "Vaundy",
   "composer": "Vaundy",
   "arranger": "Vaundy",
-  "translator": "月勳",
+  "translator": "伊亞修斯",
   "start_at": 0.0,
   "url": "UM9XNpgrqVk?si=SXLcNLlJ-SbbbpfD",
   "url_translation": "https://home.gamer.com.tw/artwork.php?sn=5348608",
@@ -145,9 +145,9 @@
       "zh": "你總是"
     },
     {
-      "time": 60.68,
-      "kanji": "歌 う 怪獣 の 歌",
-      "furigana": "うた う かいじゅう の うた",
+      "time": 52.102,
+      "kanji": "まだ 消 えない 夢 の 歌唱 えて",
+      "furigana": "まだ き えない ゆめ の うたとな えて",
       "en": "",
       "zh": "唱著的怪獸之歌"
     },
@@ -278,9 +278,9 @@
       "zh": "你總是"
     },
     {
-      "time": 111.551,
-      "kanji": "歌 う 怪獣 の 歌",
-      "furigana": "うた う かいじゅう の うた",
+      "time": 103.283,
+      "kanji": "まだ 消 えない 夢 の 歌唱 えて",
+      "furigana": "まだ き えない ゆめ の うたとな えて",
       "en": "",
       "zh": "唱著的怪獸之歌"
     },
@@ -362,9 +362,9 @@
       "zh": "歌頌著仍然不會消失的"
     },
     {
-      "time": 156.455,
-      "kanji": "夢 の 歌唱 えて",
-      "furigana": "ゆめ の うたとな えて",
+      "time": 154.459,
+      "kanji": "まだ 消 えない 夢 の 歌唱 えて",
+      "furigana": "まだ き えない ゆめ の うたとな えて",
       "en": "",
       "zh": "夢想之歌吧"
     },

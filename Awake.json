@@ -1,32 +1,32 @@
 {
   "id": 1,
   "title": "AWAKE",
-  "status": 2,
+  "status": 3,
   "artist": "星街すいせい",
   "lyricist": "草野華余子",
   "composer": "Giga & TeddyLoid",
   "arranger": "Giga & TeddyLoid",
-  "translator": "",
+  "translator": "月勳",
   "start_at": 0.0,
   "url": "UYEZL13MUFk?si=mnOKoiMiDNZgqeKS",
-  "url_translation": "",
+  "url_translation": "https://home.gamer.com.tw/artwork.php?sn=6039942",
   "lyrics": [
     {
-      "time": 6.845,
+      "time": 6.531,
       "kanji": "白 いカーテンのsway",
       "furigana": "しろ いカーテンのsway",
       "en": "",
       "zh": "白色窗簾的sway"
     },
     {
-      "time": 9.813,
+      "time": 9.802,
       "kanji": "似 たような 朝 のようで",
       "furigana": "に たような あさ のようで",
       "en": "",
       "zh": "宛如似曾相似的早晨"
     },
     {
-      "time": 12.826,
+      "time": 12.523,
       "kanji": "まるで 違 う 交差 する 星彩",
       "furigana": "まるで ちが う こうさ する ほしさい",
       "en": "",
@@ -40,14 +40,14 @@
       "zh": "嶄新地覺醒的 “thinking to myself”"
     },
     {
-      "time": 20.168,
+      "time": 19.943,
       "kanji": "定型文 のstoryteller micは 渡 しちゃ 駄目",
       "furigana": "ていけいぶん のstoryteller micは わた しちゃ だめ",
       "en": "",
       "zh": "不可以交出有著一定形式的storyteller mic"
     },
     {
-      "time": 23.47,
+      "time": 23.356,
       "kanji": "安全圏 の observer error 何 を 信 じる？",
       "furigana": "あんぜんけん の observer error なに を しん じる？",
       "en": "",
@@ -82,14 +82,14 @@
       "zh": "你已經聽膩了對吧"
     },
     {
-      "time": 40,
+      "time": 39.983,
       "kanji": "blackout 流星 knock down 寸前",
       "furigana": "blackout りゅうせい knock down すんぜん",
       "en": "",
       "zh": "blackout流星　knock down眼前"
     },
     {
-      "time": 43.492,
+      "time": 42.811,
       "kanji": "退屈 してんじゃない？？",
       "furigana": "たいくつ してんじゃない？？",
       "en": "",
@@ -97,9 +97,9 @@
     },
     {
       "time": 45.165,
-      "kanji": "I'm ready to dawn",
-      "furigana": "I'm ready to dawn",
-      "en": "",
+      "kanji": "",
+      "furigana": "",
+      "en": "I'm ready to dawn",
       "zh": ""
     },
     {
@@ -110,7 +110,7 @@
       "zh": "靠千載難逢的new sense來開始想像"
     },
     {
-      "time": 49.918,
+      "time": 49.568,
       "kanji": "光速 の sympathyでoh oh oh oh oh",
       "furigana": "こうそく の sympathyでoh oh oh oh oh",
       "en": "",
@@ -215,14 +215,14 @@
       "zh": ""
     },
     {
-      "time": 99,
+      "time": 98.494,
       "kanji": "What do you take？",
       "furigana": "What do you take？",
       "en": "",
       "zh": ""
     },
     {
-      "time": 99.686,
+      "time": 99.524,
       "kanji": "望 む 場所 へと",
       "furigana": "のぞ む ばしょ へと",
       "en": "",
@@ -362,7 +362,7 @@
       "zh": "帶來了激勵人心的未來"
     },
     {
-      "time": 176,
+      "time": 175.543,
       "kanji": "6000 万年 に 一度 きりの",
       "furigana": "6000 まんねん に いちど きりの",
       "en": "",

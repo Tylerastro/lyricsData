@@ -1,7 +1,7 @@
 {
   "id": 48,
   "title": "Countach",
-  "status": 2,
+  "status": 3,
   "artist": "轟はじめ",
   "lyricist": "浦島健太",
   "composer": "山元祐介",
@@ -194,7 +194,7 @@
       "zh": "存在價值 存在證明甚麼的"
     },
     {
-      "time": 88.919,
+      "time": 89.431,
       "kanji": "どうでもいいわ",
       "furigana": "どうでもいいわ",
       "en": "",
