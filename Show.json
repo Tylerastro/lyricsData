@@ -1,14 +1,400 @@
 {
   "id": 54,
   "title": "唱",
-  "status": 1,
+  "status": 2,
   "artist": "Ado",
   "lyricist": "TOPHAMHAT-KYO (FAKE TYPE.)様",
   "composer": "Giga様,TeddyLoid様",
   "arranger": "Giga様,TeddyLoid様",
-  "translator": "",
+  "translator": "伊淪",
   "start_at": 0,
   "url": "pgXpM4l_MwI?si=aTUUnXhioTnabmyi",
-  "url_translation": "",
-  "lyrics": []
+  "url_translation": "https://home.gamer.com.tw/artwork.php?sn=5789063",
+  "lyrics": [
+    {
+      "time": 0.605,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 4.007,
+      "kanji": "Okay たちまち 独壇場 Listen listen",
+      "furigana": "オーケイ たちまち どくだんじょう リッスン リッスン",
+      "en": "",
+      "zh": "Okay 立刻獨領風騷 Listen listen"
+    },
+    {
+      "time": 7.794,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 11.312,
+      "kanji": "傾 け 振 り 切 ろう",
+      "furigana": "かぶ け ふ り き ろう",
+      "en": "",
+      "zh": "狂歡 揮袖而去"
+    },
+    {
+      "time": 20.596,
+      "kanji": "ヤーヤーヤーヤーヤー 唱 タイム",
+      "furigana": "ヤーヤーヤーヤーヤー しょう タイム",
+      "en": "",
+      "zh": "yah yah yah yah yah　高歌時刻"
+    },
+    {
+      "time": 22.745,
+      "kanji": "天辺 の 御成 りほらおいで",
+      "furigana": "てっぺん の おな りほらおいで",
+      "en": "",
+      "zh": "天上使者駕到 趕快過來吧"
+    },
+    {
+      "time": 25.825,
+      "kanji": "宵 をコンプリートオーライ Hell yeah yeah yeah yeah",
+      "furigana": "よい をコンプリートオーライ ヘル イェー イェー イェー イェー",
+      "en": "",
+      "zh": "讓今夜圓滿落幕吧 Hell yeah yeah yeah yeah"
+    },
+    {
+      "time": 29.746,
+      "kanji": "だんだんノリノリで 超簡単 Brah brah brah!!! Pow",
+      "furigana": "だんだんノリノリで ちょうかんたん ブラー ブラー ブラー パゥ",
+      "en": "",
+      "zh": "逐漸受氣氛感染 超簡單 Brah brah brah!!! Pow"
+    },
+    {
+      "time": 33,
+      "kanji": "えも 言 われない Ain’t nobody stop",
+      "furigana": "えも い われない エイント ノーバディ ストップ",
+      "en": "",
+      "zh": "難以言喻 無人停下"
+    },
+    {
+      "time": 36.354,
+      "kanji": "全土絢爛豪華 Attention 騒 ごうか",
+      "furigana": "ぜんどけんらんごうか アテンション さわ ごうか",
+      "en": "",
+      "zh": "各地絢爛豪華 注意此處 引發騷動吧"
+    },
+    {
+      "time": 40.622,
+      "kanji": "意思表示 にもうじき 衝撃 の 声高 らか 堂々登板",
+      "furigana": "いしひょうじ にもうじき しょうげき の こえたか らか どうどうとうばん",
+      "en": "",
+      "zh": "很快地就會帶來在意思表示上產生衝擊的響亮登場"
+    },
+    {
+      "time": 44.459,
+      "kanji": "もう 伽藍洞 は 疾 っくの 疾 う 淘汰",
+      "furigana": "もう がらんどう は と っくの と う とうた",
+      "en": "",
+      "zh": "已經不再需要廟宇洞窟了 迅速淘汰"
+    },
+    {
+      "time": 48.307,
+      "kanji": "Aye 繚乱桜花 御出 ましだ",
+      "furigana": "アイ りょうらんおうか おで ましだ",
+      "en": "",
+      "zh": "Aye撩亂櫻花　隆重登場"
+    },
+    {
+      "time": 51.761,
+      "kanji": "格好 つけてるつもりは NO NO",
+      "furigana": "かっこう つけてるつもりは ノー ノー",
+      "en": "",
+      "zh": "是否在裝酷的答案為NO NO"
+    },
+    {
+      "time": 55.42,
+      "kanji": "オートマティックに 溢 れちゃう 本能",
+      "furigana": "オートマティックに あふ れちゃう ほんのう",
+      "en": "",
+      "zh": "是自動溢出的本能"
+    },
+    {
+      "time": 58.765,
+      "kanji": "宣 う 断頭台 の 上 で 燥 げ 華麗",
+      "furigana": "のたま う だんとうだい の うえ で はしゃ げ かれい",
+      "en": "",
+      "zh": "在斷頭台上　狂歡 華麗"
+    },
+    {
+      "time": 64.312,
+      "kanji": "Da rat a tat…WARNING!",
+      "furigana": "ダ ラ タ タッタ ウォーニング",
+      "en": "",
+      "zh": "Da rat a tat…警告！"
+    },
+    {
+      "time": 65.936,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 69.275,
+      "kanji": "バンザイ 遊 ぶ 気 に 寿 Shout it out , Shout it out",
+      "furigana": "バンザイ あそ ぶ き に ことぶき シャウト イット アウト , シャウト イット アウト",
+      "en": "",
+      "zh": "萬歲　充滿玩樂氣氛的祝賀 喊出來 喊出來"
+    },
+    {
+      "time": 73.344,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 76.519,
+      "kanji": "はんなり 感情通 りに 八艘飛 び Shout it out , Shout it out",
+      "furigana": "はんなり かんじょうどお りに はっそうと び シャウト イット アウト , シャウト イット アウト",
+      "en": "",
+      "zh": "隨著情感自由的翱翔 喊出來 喊出來"
+    },
+    {
+      "time": 81.113,
+      "kanji": "( Hey uh ) 食 らっちゃいな",
+      "furigana": "( ヘイ ウー ) く らっちゃいな",
+      "en": "",
+      "zh": "( Hey uh ) 盡情享受吧"
+    },
+    {
+      "time": 84.767,
+      "kanji": "( Hay ha ) Rat tat tat tat tat",
+      "furigana": "( ヘイ ハー ) ラ タ タ タ タ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 87.8,
+      "kanji": "Pull up ( Hey uh, wa wa wa )",
+      "furigana": "プル アップ ( ヘイ ウー ワ ワ ワ )",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 91.234,
+      "kanji": "満開 総員一気 にとびきり Jump around",
+      "furigana": "まんかい そういんいっき にとびきり ジャンプ アラウンド",
+      "en": "",
+      "zh": "盛開　全員一同Jump around"
+    },
+    {
+      "time": 95.037,
+      "kanji": "Look at me now",
+      "furigana": "ルック アット ミー ナウ",
+      "en": "",
+      "zh": "現在注視著我吧"
+    },
+    {
+      "time": 96.768,
+      "kanji": "皮膚 を 破 りそうな 程 に 跳 ねる 心臓 くらい 激情的仕様 ( Exotic vox )",
+      "furigana": "ひふ を やぶ りそうな ほど に は ねる しんぞう くらい げきじょうてきしよう ( エキゾチック ヴァクス )",
+      "en": "",
+      "zh": "如同要將皮膚刺破一般劇烈跳動的心臟充滿激情 (異國情調之聲)"
+    },
+    {
+      "time": 102.199,
+      "kanji": "イニミニマニモご 来場 からのご 来光",
+      "furigana": "イニミニマニモご らいじょう からのご らいこう",
+      "en": "",
+      "zh": "Eeny-Meeny-Miny-Moe來自參與者的光芒"
+    },
+    {
+      "time": 104,
+      "kanji": "かくれんぼしてるその 気持 ち 解放 ( 理性 アディオス)",
+      "furigana": "かくれんぼしてるその きも ち かいほう ( りせい アディオス)",
+      "en": "",
+      "zh": "釋放那在捉迷藏的情感 (理性掰掰)"
+    },
+    {
+      "time": 107.008,
+      "kanji": "しゃかりきじみちゃう",
+      "furigana": "しゃかりきじみちゃう",
+      "en": "",
+      "zh": "堅決果斷的與之告別"
+    },
+    {
+      "time": 110,
+      "kanji": "蛇腹刃蛇尾 騙 る 二枚刃",
+      "furigana": "じゃばらばだび かた る にまいば",
+      "en": "",
+      "zh": "蛇腹刃蛇尾　欺騙的雙面刃"
+    },
+    {
+      "time": 111.54,
+      "kanji": "野心家嫉妬 するようなジュース",
+      "furigana": "やしんかしっと するようなジュース",
+      "en": "",
+      "zh": "野心家得到了令人生妒的果汁"
+    },
+    {
+      "time": 113.417,
+      "kanji": "たぶらかすなかっとなっちゃ 嫌",
+      "furigana": "たぶらかすなかっとなっちゃ いや",
+      "en": "",
+      "zh": "莫誆騙 莫生氣"
+    },
+    {
+      "time": 115.358,
+      "kanji": "カルマに 至 る 前 に 揺蕩 うわ",
+      "furigana": "カルマに いた る まえ に たゆた うわ",
+      "en": "",
+      "zh": "於因果報應到來前 先動搖吧"
+    },
+    {
+      "time": 116.8,
+      "kanji": "蛇腹刃蛇尾 騙 る 二枚刃",
+      "furigana": "じゃばらばだび かた る にまいば",
+      "en": "",
+      "zh": "蛇腹刃蛇尾　欺騙的雙面刃"
+    },
+    {
+      "time": 118.616,
+      "kanji": "野心家 嫉妬 するようなジュース",
+      "furigana": "やしんか しっと するようなジュース",
+      "en": "",
+      "zh": "野心家得到了令人生妒的果汁"
+    },
+    {
+      "time": 120.739,
+      "kanji": "たぶらかすなかっとなっちゃ 嫌",
+      "furigana": "たぶらかすなかっとなっちゃ いや",
+      "en": "",
+      "zh": "莫誆騙 莫生氣"
+    },
+    {
+      "time": 122.394,
+      "kanji": "十色 のバタフライ( No escape )",
+      "furigana": "といろ のバタフライ( ノー エスケイプ )",
+      "en": "",
+      "zh": "十色的蝴蝶 (無處可逃)"
+    },
+    {
+      "time": 126.836,
+      "kanji": "ご 存 じの 通 り 騒々 しい 鼓動 に 絆 されてもう 止 まれない",
+      "furigana": "ご ぞん じの とお り そうぞう しい こどう に ほだ されてもう と まれない",
+      "en": "",
+      "zh": "如你所知 被喧囂的心所感染 已然無法停止"
+    },
+    {
+      "time": 133.978,
+      "kanji": "衝動 に 塗装 し 描 いた Daybreak 肺貫通低音狂",
+      "furigana": "しょうどう に とそう し えが いた デイブレイク はいかんつうていおんきょう",
+      "en": "",
+      "zh": "衝動塗裝繪製出的  破曉時分  肺部貫穿的低音狂"
+    },
+    {
+      "time": 140.65,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 143.98,
+      "kanji": "異例 の 危険度 比類 なき 活気充満",
+      "furigana": "いれい の きけんど ひるい なき かっきじゅうまん",
+      "en": "",
+      "zh": "非比尋常的危險度　無與倫比的充滿活力"
+    },
+    {
+      "time": 147.878,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 151.101,
+      "kanji": "いちかばちか 鳴呼",
+      "furigana": "いちかばちか ああ",
+      "en": "",
+      "zh": "賭上一切　啊"
+    },
+    {
+      "time": 154.999,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 158.403,
+      "kanji": "バンザイ 遊 ぶ 気 に 寿 Shout it out , Shout it out",
+      "furigana": "バンザイ あそ ぶ き に ことぶき シャウト イット アウト , シャウト イット アウト",
+      "en": "",
+      "zh": "萬歲　充滿玩樂氣氛的祝賀 喊出來 喊出來"
+    },
+    {
+      "time": 162.421,
+      "kanji": "Nah-Nah-Nah-Nah-Nah, Ready for my show",
+      "furigana": "ナーナーナーナーナ レディ フォー マイ ショー",
+      "en": "",
+      "zh": "Nah-Nah-Nah-Nah-Nah, 等著看我華麗演出吧"
+    },
+    {
+      "time": 165.605,
+      "kanji": "喝采 巻 き 起 こすために Stay",
+      "furigana": "かっさい ま き お こすために ステイ",
+      "en": "",
+      "zh": "為了引起　喝采Stay"
+    },
+    {
+      "time": 169.678,
+      "kanji": "一切合切忘 れて Shout it out",
+      "furigana": "いっさいがっさいわす れて シャウト イット アウト",
+      "en": "",
+      "zh": "將一切忘卻 大聲呼喊吧"
+    },
+    {
+      "time": 174.354,
+      "kanji": "Aye wah oh oh oh",
+      "furigana": "エイ ワー オー オー オー",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 177.753,
+      "kanji": "右 に 左 まとめて Rat a tat a tat",
+      "furigana": "みぎ に ひだり まとめて ラ タ タ タ タ",
+      "en": "",
+      "zh": "左右搖擺 全部一起 Rat a tat a tat"
+    },
+    {
+      "time": 180.342,
+      "kanji": "Pull up",
+      "furigana": "プル アップ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 181.34,
+      "kanji": "思 いっ 切 り 一気 に ( Clap Clap Clap )",
+      "furigana": "おも いっ き り いっき に ( クラップ クラップ クラップ )",
+      "en": "",
+      "zh": "全情投入 一股作氣 (Clap Clap Clap)"
+    },
+    {
+      "time": 183.617,
+      "kanji": "なにはともあれ ご 唱和 あれ",
+      "furigana": "なにはともあれ ご しょうわ あれ",
+      "en": "",
+      "zh": "不管怎樣　都請一同歌唱"
+    },
+    {
+      "time": 186.21,
+      "kanji": "Shout it out , Shout it out",
+      "furigana": "シャウト イット アウト , シャウト イット アウト",
+      "en": "",
+      "zh": "大聲呼喊吧 大聲呼喊"
+    }
+  ]
 }
