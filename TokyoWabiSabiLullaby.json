@@ -1,7 +1,7 @@
 {
   "id": 60,
   "title": "Tokyo Wabi-Sabi Lullaby",
-  "status": 1,
+  "status": 2,
   "artist": "Gawr Gura",
   "lyricist": "HoneyWorks, MARUMOCHI",
   "composer": "HoneyWorks, MARUMOCHI",
@@ -10,5 +10,370 @@
   "start_at": 0,
   "url": "D7XANR5cacE?si=XdhPQgeBLOa487zm",
   "url_translation": "",
-  "lyrics": []
+  "lyrics": [
+    {
+      "time": 1.052,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tok Tok Tok",
+      "zh": ""
+    },
+    {
+      "time": 1.995,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tokyo Wabi-Sabi Lullaby",
+      "zh": ""
+    },
+    {
+      "time": 4.118,
+      "kanji": "眠 れない 夜 には",
+      "furigana": "ねむ れない よる には",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 6.041,
+      "kanji": "",
+      "furigana": "",
+      "en": "Hold me tight",
+      "zh": ""
+    },
+    {
+      "time": 6.831,
+      "kanji": "",
+      "furigana": "",
+      "en": "oh na na na na na na na",
+      "zh": ""
+    },
+    {
+      "time": 9.34,
+      "kanji": "ねぇ 今年 の 夏 また 会 えるかな",
+      "furigana": "ねぇ ことし の なつ また あ えるかな",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 13.533,
+      "kanji": "",
+      "furigana": "",
+      "en": "lala...lala...lala",
+      "zh": ""
+    },
+    {
+      "time": 22.2,
+      "kanji": "海 の 匂 い 砂 の 浜 スイカ 割 り",
+      "furigana": "うみ の にお い すな の はま スイカ わ り",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 26,
+      "kanji": "",
+      "furigana": "",
+      "en": "(cho) ha...ha...",
+      "zh": ""
+    },
+    {
+      "time": 27.379,
+      "kanji": "懐 かしい 故郷 の Childhood memories",
+      "furigana": "なつ かしい こきょう の Childhood memories",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 31.333,
+      "kanji": "",
+      "furigana": "",
+      "en": "(cho) ha...ha...",
+      "zh": ""
+    },
+    {
+      "time": 32.68,
+      "kanji": "夕凪 に 黄昏 て 二人 だけ",
+      "furigana": "ゆうなぎ に たそがれ て ふたり だけ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 36.473,
+      "kanji": "",
+      "furigana": "",
+      "en": "(cho) ha...ha...",
+      "zh": ""
+    },
+    {
+      "time": 37.8,
+      "kanji": "濡 れ 髪 をかき 上 げて 笑 った",
+      "furigana": "ぬ れ がみ をかき あ げて わら った",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 41.69,
+      "kanji": "",
+      "furigana": "",
+      "en": "(cho) lalalalala...",
+      "zh": ""
+    },
+    {
+      "time": 42.823,
+      "kanji": "泳 ぎ 疲 れて 彷徨 ってMidnight",
+      "furigana": "およ ぎ つか れて さまよ ってMidnight",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 48.657,
+      "kanji": "星 探 して 一人",
+      "furigana": "ほし さが して ひとり",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 53.078,
+      "kanji": "自分 で 選 んだ 道 の 途中 で",
+      "furigana": "じぶん で えら んだ みち の とちゅう で",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 59.149,
+      "kanji": "喧噪 で 振 り 返 る 君 の 影 を 探 した",
+      "furigana": "けんそう で ふ り かえ る きみ の かげ を さが した",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 66.099,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tok Tok Tok",
+      "zh": ""
+    },
+    {
+      "time": 67.226,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tokyo Wabi-Sabi Lullaby",
+      "zh": ""
+    },
+    {
+      "time": 69.474,
+      "kanji": "眠 れない 夜 には",
+      "furigana": "ねむ れない よる には",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 71.348,
+      "kanji": "",
+      "furigana": "",
+      "en": "Hold me tight",
+      "zh": ""
+    },
+    {
+      "time": 71.972,
+      "kanji": "",
+      "furigana": "",
+      "en": "oh na na na na na na na",
+      "zh": ""
+    },
+    {
+      "time": 74.554,
+      "kanji": "ねえ 元気 してる? 話 したいよ",
+      "furigana": "ねえ げんき してる? はな したいよ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 77.582,
+      "kanji": "「 寂 しい」を 堪 えて",
+      "furigana": "「 さび しい」を こた えて",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 79.76,
+      "kanji": "「またね」って 君 は 笑 ってた",
+      "furigana": "「またね」って きみ は わら ってた",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 82.562,
+      "kanji": "",
+      "furigana": "",
+      "en": "oh na na na na na na na",
+      "zh": ""
+    },
+    {
+      "time": 84.918,
+      "kanji": "ねぇ 今年 の 夏 また 会 えるかな",
+      "furigana": "ねぇ ことし の なつ また あ えるかな",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 89.287,
+      "kanji": "",
+      "furigana": "",
+      "en": "lala...lala...lala",
+      "zh": ""
+    },
+    {
+      "time": 98,
+      "kanji": "",
+      "furigana": "",
+      "en": "It's raining",
+      "zh": ""
+    },
+    {
+      "time": 99.819,
+      "kanji": "傘 を 差 してくれた 君 と 白 い 吐息",
+      "furigana": "かさ を さ してくれた きみ と しろ い といき",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 103.647,
+      "kanji": "二人 で 巻 いたお 揃 いの 青 いマフラー",
+      "furigana": "ふたり で ま いたお そろ いの あお いマフラー",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 108.346,
+      "kanji": "",
+      "furigana": "",
+      "en": "It's snowing",
+      "zh": ""
+    },
+    {
+      "time": 110.454,
+      "kanji": "片 っぽずつ 着 けた 手袋 と 雪 だるま",
+      "furigana": "かた っぽずつ つ けた てぶくろ と ゆき だるま",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 114.106,
+      "kanji": "「 遊 びたいな」",
+      "furigana": "「 あそ びたいな」",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 115.537,
+      "kanji": "「 顔 見 たいな」",
+      "furigana": "「 かお み たいな」",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 116.727,
+      "kanji": "胸 が 騒 いだ",
+      "furigana": "むね が さわ いだ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 119,
+      "kanji": "",
+      "furigana": "",
+      "en": "Doki Doki Doki",
+      "zh": ""
+    },
+    {
+      "time": 119.906,
+      "kanji": "桜 の 花 びらが 咲 き 始 める 頃合 いに",
+      "furigana": "さくら の はな びらが さ き はじ める ころあ いに",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 123.235,
+      "kanji": "「やあ... 久 しぶりだね」",
+      "furigana": "「やあ... ひさ しぶりだね」",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 126.671,
+      "kanji": "そんな 幻想 午前 0 時",
+      "furigana": "そんな げんそう ごぜん 0 じ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 132.316,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tokyo Wabi-Sabi Lullaby",
+      "zh": ""
+    },
+    {
+      "time": 134.643,
+      "kanji": "眠 れない 夜 には",
+      "furigana": "ねむ れない よる には",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 136.405,
+      "kanji": "",
+      "furigana": "",
+      "en": "Hold me tight",
+      "zh": ""
+    },
+    {
+      "time": 137.175,
+      "kanji": "",
+      "furigana": "",
+      "en": "oh na na na na na na na",
+      "zh": ""
+    },
+    {
+      "time": 139.95,
+      "kanji": "ねぇ 元気 してる? 話 したいよ",
+      "furigana": "ねぇ げんき してる? はな したいよ",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 142.806,
+      "kanji": "「 会 いに 行 く」と 伝 えたら",
+      "furigana": "「 あ いに い く」と つた えたら",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 145.067,
+      "kanji": "君 は 笑 ってくれるかな",
+      "furigana": "きみ は わら ってくれるかな",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 147.766,
+      "kanji": "「ああとても 綺麗 だ」",
+      "furigana": "「ああとても きれい だ」",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 150.4,
+      "kanji": "一人 で 見上 げた 夜空 に 花火",
+      "furigana": "ひとり で みあ げた よぞら に はなび",
+      "en": "",
+      "zh": ""
+    },
+    {
+      "time": 153.398,
+      "kanji": "",
+      "furigana": "",
+      "en": "lala...lala...lala",
+      "zh": ""
+    }
+  ]
 }
