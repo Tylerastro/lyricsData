@@ -1,7 +1,7 @@
 {
   "id": 46,
   "title": "Ash Again",
-  "status": 1,
+  "status": 2,
   "artist": "Gawr Gura",
   "lyricist": "Casey Edwards",
   "composer": "Casey Edwards",
@@ -10,5 +10,468 @@
   "start_at": 0,
   "url": "twUFbqyul_M?si=dMkKvlnDL4_HttHP",
   "url_translation": "",
-  "lyrics": []
+  "lyrics": [
+    {
+      "time": 10.448,
+      "kanji": "",
+      "furigana": "",
+      "en": "Face to face with time again",
+      "zh": ""
+    },
+    {
+      "time": 14.363,
+      "kanji": "",
+      "furigana": "",
+      "en": "We walk once more to the end",
+      "zh": ""
+    },
+    {
+      "time": 18.153,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 20.021,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 23.005,
+      "kanji": "",
+      "furigana": "",
+      "en": "Waves can't put out my flame",
+      "zh": ""
+    },
+    {
+      "time": 26.828,
+      "kanji": "",
+      "furigana": "",
+      "en": "Death will never write my name",
+      "zh": ""
+    },
+    {
+      "time": 30.385,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 32.591,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 35.724,
+      "kanji": "",
+      "furigana": "",
+      "en": "They say the memory of me is fading",
+      "zh": ""
+    },
+    {
+      "time": 42.511,
+      "kanji": "",
+      "furigana": "",
+      "en": "I've heard it all before",
+      "zh": ""
+    },
+    {
+      "time": 44.255,
+      "kanji": "",
+      "furigana": "",
+      "en": "Don't tell me everyone around is waiting",
+      "zh": ""
+    },
+    {
+      "time": 52.958,
+      "kanji": "",
+      "furigana": "",
+      "en": "And they all say",
+      "zh": ""
+    },
+    {
+      "time": 57.375,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tear it down",
+      "zh": ""
+    },
+    {
+      "time": 58.385,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 61.508,
+      "kanji": "",
+      "furigana": "",
+      "en": "And they'll all pay",
+      "zh": ""
+    },
+    {
+      "time": 64.673,
+      "kanji": "",
+      "furigana": "",
+      "en": "When I tear it down",
+      "zh": ""
+    },
+    {
+      "time": 66.682,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 70.395,
+      "kanji": "",
+      "furigana": "",
+      "en": "When the world falls through",
+      "zh": ""
+    },
+    {
+      "time": 74.471,
+      "kanji": "",
+      "furigana": "",
+      "en": "And all is ash again",
+      "zh": ""
+    },
+    {
+      "time": 78.784,
+      "kanji": "",
+      "furigana": "",
+      "en": "While you all pretend",
+      "zh": ""
+    },
+    {
+      "time": 82.706,
+      "kanji": "",
+      "furigana": "",
+      "en": "If this is the end",
+      "zh": ""
+    },
+    {
+      "time": 86.202,
+      "kanji": "",
+      "furigana": "",
+      "en": "I'll do it again",
+      "zh": ""
+    },
+    {
+      "time": 91.902,
+      "kanji": "",
+      "furigana": "",
+      "en": "Voices rise in my head",
+      "zh": ""
+    },
+    {
+      "time": 95.636,
+      "kanji": "",
+      "furigana": "",
+      "en": "The hands that pull at my thread",
+      "zh": ""
+    },
+    {
+      "time": 99.272,
+      "kanji": "",
+      "furigana": "",
+      "en": "Let them drown",
+      "zh": ""
+    },
+    {
+      "time": 101.544,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 104.508,
+      "kanji": "",
+      "furigana": "",
+      "en": "Wait for wash in the tide",
+      "zh": ""
+    },
+    {
+      "time": 107.908,
+      "kanji": "",
+      "furigana": "",
+      "en": "In the abyss is where I will hide",
+      "zh": ""
+    },
+    {
+      "time": 111.794,
+      "kanji": "",
+      "furigana": "",
+      "en": "Let them drown",
+      "zh": ""
+    },
+    {
+      "time": 113.961,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 117.422,
+      "kanji": "",
+      "furigana": "",
+      "en": "They say the memory of me is fading",
+      "zh": ""
+    },
+    {
+      "time": 123.957,
+      "kanji": "",
+      "furigana": "",
+      "en": "I've heard it all before",
+      "zh": ""
+    },
+    {
+      "time": 125.601,
+      "kanji": "",
+      "furigana": "",
+      "en": "Don't tell me everyone around is waiting",
+      "zh": ""
+    },
+    {
+      "time": 134.559,
+      "kanji": "",
+      "furigana": "",
+      "en": "And they all say",
+      "zh": ""
+    },
+    {
+      "time": 138.762,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tear it down",
+      "zh": ""
+    },
+    {
+      "time": 139.804,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 142.168,
+      "kanji": "",
+      "furigana": "",
+      "en": "And they'll all pay",
+      "zh": ""
+    },
+    {
+      "time": 146.621,
+      "kanji": "",
+      "furigana": "",
+      "en": "When I tear it down",
+      "zh": ""
+    },
+    {
+      "time": 148.044,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 151.582,
+      "kanji": "",
+      "furigana": "",
+      "en": "When the world falls through",
+      "zh": ""
+    },
+    {
+      "time": 155.935,
+      "kanji": "",
+      "furigana": "",
+      "en": "And all is ash again",
+      "zh": ""
+    },
+    {
+      "time": 160.099,
+      "kanji": "",
+      "furigana": "",
+      "en": "While you all pretend",
+      "zh": ""
+    },
+    {
+      "time": 164.039,
+      "kanji": "",
+      "furigana": "",
+      "en": "If this is the end",
+      "zh": ""
+    },
+    {
+      "time": 167.639,
+      "kanji": "",
+      "furigana": "",
+      "en": "I'll do it again",
+      "zh": ""
+    },
+    {
+      "time": 170.957,
+      "kanji": "",
+      "furigana": "",
+      "en": "We swim against the current's aim",
+      "zh": ""
+    },
+    {
+      "time": 177.033,
+      "kanji": "",
+      "furigana": "",
+      "en": "In dark we change as smoke returns to rain",
+      "zh": ""
+    },
+    {
+      "time": 185.897,
+      "kanji": "",
+      "furigana": "",
+      "en": "Navigating sunken depths and all of its debris",
+      "zh": ""
+    },
+    {
+      "time": 193.742,
+      "kanji": "",
+      "furigana": "",
+      "en": "And no more hands upon my words",
+      "zh": ""
+    },
+    {
+      "time": 197.685,
+      "kanji": "",
+      "furigana": "",
+      "en": "They only speak for me",
+      "zh": ""
+    },
+    {
+      "time": 201.859,
+      "kanji": "",
+      "furigana": "",
+      "en": "For all the ones who try to silence thunder",
+      "zh": ""
+    },
+    {
+      "time": 211.021,
+      "kanji": "",
+      "furigana": "",
+      "en": "I'm the wave that pulls you down and under",
+      "zh": ""
+    },
+    {
+      "time": 219.257,
+      "kanji": "",
+      "furigana": "",
+      "en": "Every day I'll stand with me",
+      "zh": ""
+    },
+    {
+      "time": 222.503,
+      "kanji": "",
+      "furigana": "",
+      "en": "And I'll fight the drought of shallow sea",
+      "zh": ""
+    },
+    {
+      "time": 226.588,
+      "kanji": "",
+      "furigana": "",
+      "en": "As ships sail winds of jealousy",
+      "zh": ""
+    },
+    {
+      "time": 230.841,
+      "kanji": "",
+      "furigana": "",
+      "en": "I'll listen carefully",
+      "zh": ""
+    },
+    {
+      "time": 238,
+      "kanji": "",
+      "furigana": "",
+      "en": "As they all say",
+      "zh": ""
+    },
+    {
+      "time": 243.027,
+      "kanji": "",
+      "furigana": "",
+      "en": "Tear it down",
+      "zh": ""
+    },
+    {
+      "time": 244.17,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 247.431,
+      "kanji": "",
+      "furigana": "",
+      "en": "And they'll all pay",
+      "zh": ""
+    },
+    {
+      "time": 251.124,
+      "kanji": "",
+      "furigana": "",
+      "en": "When I tear it down",
+      "zh": ""
+    },
+    {
+      "time": 252.275,
+      "kanji": "",
+      "furigana": "",
+      "en": "Burn it down",
+      "zh": ""
+    },
+    {
+      "time": 256.365,
+      "kanji": "",
+      "furigana": "",
+      "en": "When the world falls through",
+      "zh": ""
+    },
+    {
+      "time": 260.325,
+      "kanji": "",
+      "furigana": "",
+      "en": "And all is ash again",
+      "zh": ""
+    },
+    {
+      "time": 264.38,
+      "kanji": "",
+      "furigana": "",
+      "en": "While you all pretend",
+      "zh": ""
+    },
+    {
+      "time": 268.941,
+      "kanji": "",
+      "furigana": "",
+      "en": "If this is the end",
+      "zh": ""
+    },
+    {
+      "time": 272.082,
+      "kanji": "",
+      "furigana": "",
+      "en": "I'll do it again",
+      "zh": ""
+    }
+  ]
 }
