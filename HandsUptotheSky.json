@@ -1,7 +1,7 @@
 {
   "id": 65,
   "title": "Hands Up to the Sky",
-  "status": 1,
+  "status": 2,
   "artist": "SawanoHiroyuki[nZk]:Laco",
   "lyricist": "SawanoHiroyuki[nZk]:Laco",
   "composer": "SawanoHiroyuki[nZk]:Laco",
@@ -9,6 +9,413 @@
   "translator": "",
   "start_at": 0,
   "url": "fqYFkPeYqoI?si=CqHcGN-QMNk7KLYZ",
-  "url_translation": "",
-  "lyrics": []
+  "url_translation": "https://home.gamer.com.tw/artwork.php?sn=5138125",
+  "lyrics": [
+    {
+      "time": 5.451,
+      "kanji": "",
+      "furigana": "",
+      "en": "1, 2, 3, We made it through",
+      "zh": "1，2，3，我們終於做到了"
+    },
+    {
+      "time": 7.969,
+      "kanji": "",
+      "furigana": "",
+      "en": "4 & 5, You got it too?",
+      "zh": "4跟5，你們也知道了嗎？"
+    },
+    {
+      "time": 10.383,
+      "kanji": "カリソメの 夜空 を 照 らす",
+      "furigana": "カリソメの よぞら を て らす",
+      "en": "",
+      "zh": "照亮了稍縱即逝的夜空"
+    },
+    {
+      "time": 14.37,
+      "kanji": "",
+      "furigana": "",
+      "en": "Handle it with light",
+      "zh": "輕輕地將過去放下"
+    },
+    {
+      "time": 15.727,
+      "kanji": "途方 もない 暮 れに 別 れを 告 げる",
+      "furigana": "とほう もない く れに わか れを つ げる",
+      "en": "",
+      "zh": "在難以言喻的黃昏時分，輕聲向你們道別"
+    },
+    {
+      "time": 20.136,
+      "kanji": "確 かな 声 を 聴 け",
+      "furigana": "たし かな こえ を き け",
+      "en": "",
+      "zh": "確信你們一定能夠聽見"
+    },
+    {
+      "time": 23.743,
+      "kanji": "",
+      "furigana": "",
+      "en": "Stand up and get a start",
+      "zh": "起身而行"
+    },
+    {
+      "time": 26.878,
+      "kanji": "気 の 向 くまま",
+      "furigana": "き の む くまま",
+      "en": "",
+      "zh": "只要隨心所欲就好"
+    },
+    {
+      "time": 29,
+      "kanji": "",
+      "furigana": "",
+      "en": "It's depending on your heart",
+      "zh": "所有的一切都取決於你的內心"
+    },
+    {
+      "time": 31.381,
+      "kanji": "",
+      "furigana": "",
+      "en": "Can take shivers of your scar",
+      "zh": "相信自己能夠戰勝創傷"
+    },
+    {
+      "time": 33.816,
+      "kanji": "広 がった 世界 に 描 いていく",
+      "furigana": "ひろ がった せかい に えが いていく",
+      "en": "",
+      "zh": "於廣闊的世界中持續描繪"
+    },
+    {
+      "time": 38.262,
+      "kanji": "憧 れはいつか 消 えてしまうのか?",
+      "furigana": "あこが れはいつか き えてしまうのか?",
+      "en": "",
+      "zh": "難道憧憬總有一天會風吹雲散嗎？"
+    },
+    {
+      "time": 44.179,
+      "kanji": "",
+      "furigana": "",
+      "en": "Raise your hands up to the sky",
+      "zh": "向著蒼穹舉起手來"
+    },
+    {
+      "time": 47.8,
+      "kanji": "閉 じていたvision 今 未来 を 繋 いで",
+      "furigana": "と じていたvision いま みらい を つな いで",
+      "en": "",
+      "zh": "昔日封閉的視野，如今正聯繫著未來"
+    },
+    {
+      "time": 54.114,
+      "kanji": "",
+      "furigana": "",
+      "en": "Listen up, Troublemaker",
+      "zh": "聽好了，麻煩製造者"
+    },
+    {
+      "time": 56.521,
+      "kanji": "",
+      "furigana": "",
+      "en": "How'd you know 'bout my fever?",
+      "zh": "你能了解我的熱情嗎？"
+    },
+    {
+      "time": 58.989,
+      "kanji": "どんなに 読 み 漁 ったって そこに 答 えはない",
+      "furigana": "どんなに よ み あさ ったって そこに こた えはない",
+      "en": "",
+      "zh": "即使再怎樣博覽群書，也無法從中尋覓出解答"
+    },
+    {
+      "time": 64.033,
+      "kanji": "",
+      "furigana": "",
+      "en": "7, Our dream has come true",
+      "zh": "7，我們的夢想已然實現"
+    },
+    {
+      "time": 66.875,
+      "kanji": "",
+      "furigana": "",
+      "en": "& 9, What you gonna do?",
+      "zh": "數到9，接下來你想做什麼？"
+    },
+    {
+      "time": 69.125,
+      "kanji": "無防備 な 吐息 が 雨 を 降 らす",
+      "furigana": "むぼうび な といき が あめ を ふ らす",
+      "en": "",
+      "zh": "卸下心防的嘆息讓淚水如雨般滴落"
+    },
+    {
+      "time": 73.19,
+      "kanji": "",
+      "furigana": "",
+      "en": "Hug each other tight",
+      "zh": "緊緊的相擁彼此"
+    },
+    {
+      "time": 74.485,
+      "kanji": "とるに 足 らない 些細 な 変化 も",
+      "furigana": "とるに た らない ささい な へんか も",
+      "en": "",
+      "zh": "若能迎來連微不足道的細微變化"
+    },
+    {
+      "time": 77.906,
+      "kanji": "喜 び 合 える 日 が 来 るなら",
+      "furigana": "よろこ び あ える ひ が く るなら",
+      "en": "",
+      "zh": "都能與彼此分享喜悅的日子"
+    },
+    {
+      "time": 82.525,
+      "kanji": "",
+      "furigana": "",
+      "en": "Stand up and get a start",
+      "zh": "起身而行"
+    },
+    {
+      "time": 85.646,
+      "kanji": "気 まぐれでもいい",
+      "furigana": "き まぐれでもいい",
+      "en": "",
+      "zh": "就算任性點也無所謂"
+    },
+    {
+      "time": 87.695,
+      "kanji": "",
+      "furigana": "",
+      "en": "It's depending on your heart",
+      "zh": "所有的一切都取決於你的內心"
+    },
+    {
+      "time": 90.076,
+      "kanji": "",
+      "furigana": "",
+      "en": "Can take shivers of your scar",
+      "zh": "相信自己能夠戰勝創傷"
+    },
+    {
+      "time": 92.46,
+      "kanji": "爪先立 ちして 覗 いていたレンズのその 先 に",
+      "furigana": "つまさきだ ちして のぞ いていたレンズのその さき に",
+      "en": "",
+      "zh": "踮起腳尖去窺視那鏡頭中的前方"
+    },
+    {
+      "time": 99.952,
+      "kanji": "踊 るプリズムのように",
+      "furigana": "おど るプリズムのように",
+      "en": "",
+      "zh": "如同閃耀的稜鏡那般"
+    },
+    {
+      "time": 103.001,
+      "kanji": "",
+      "furigana": "",
+      "en": "Raise your hands up to the sky",
+      "zh": "向著蒼穹舉起手來"
+    },
+    {
+      "time": 106.657,
+      "kanji": "解 き 放 つdimension 新 たな 頁 開 いて",
+      "furigana": "と き はな つdimension あら たな ぺーじ ひら いて",
+      "en": "",
+      "zh": "解放過去的枷鎖，開啟嶄新的篇章"
+    },
+    {
+      "time": 112.864,
+      "kanji": "",
+      "furigana": "",
+      "en": "Listen up, Troublemaker",
+      "zh": "聽好了，麻煩製造者"
+    },
+    {
+      "time": 115.256,
+      "kanji": "",
+      "furigana": "",
+      "en": "How'd you know 'bout my fever",
+      "zh": "你能了解我的熱情嗎？"
+    },
+    {
+      "time": 117.707,
+      "kanji": "どんなに 愛 していたって 音 に 載 せれない",
+      "furigana": "どんなに あい していたって おと に の せれない",
+      "en": "",
+      "zh": "不論有多麼深愛，也無法以言語(聲音)來乘載"
+    },
+    {
+      "time": 123.232,
+      "kanji": "",
+      "furigana": "",
+      "en": "Smile with me, with your white teeth",
+      "zh": "露出你那皎潔的牙齒，與我一同歡笑"
+    },
+    {
+      "time": 125.465,
+      "kanji": "素直 に to feel so free",
+      "furigana": "すなお に to feel so free",
+      "en": "",
+      "zh": "直率點，去感受自由"
+    },
+    {
+      "time": 128.062,
+      "kanji": "ここから 変 わるなら",
+      "furigana": "ここから か わるなら",
+      "en": "",
+      "zh": "從此處開始改變的話"
+    },
+    {
+      "time": 130.383,
+      "kanji": "",
+      "furigana": "",
+      "en": "Rewrite the codes of memories",
+      "zh": "就能重新改寫記憶的代碼"
+    },
+    {
+      "time": 133.073,
+      "kanji": "",
+      "furigana": "",
+      "en": "Smile with me, with delight please",
+      "zh": "請帶著喜悅，與我一同歡笑"
+    },
+    {
+      "time": 135.367,
+      "kanji": "素直 に to feel so free",
+      "furigana": "すなお に to feel so free",
+      "en": "",
+      "zh": "直率點，去感受自由"
+    },
+    {
+      "time": 137.633,
+      "kanji": "これから 変 わるから",
+      "furigana": "これから か わるから",
+      "en": "",
+      "zh": "因為從此刻開始改變"
+    },
+    {
+      "time": 140.166,
+      "kanji": "",
+      "furigana": "",
+      "en": "Rewrite the chords of melodies",
+      "zh": "就能重新譜寫旋律的和弦"
+    },
+    {
+      "time": 143.777,
+      "kanji": "",
+      "furigana": "",
+      "en": "Stand up and get a start",
+      "zh": "起身而行"
+    },
+    {
+      "time": 146.905,
+      "kanji": "気 の 向 くまま",
+      "furigana": "き の む くまま",
+      "en": "",
+      "zh": "只要隨心所欲就好"
+    },
+    {
+      "time": 148.976,
+      "kanji": "",
+      "furigana": "",
+      "en": "It's depending on your heart",
+      "zh": "所有的一切都取決於你的內心"
+    },
+    {
+      "time": 151.401,
+      "kanji": "",
+      "furigana": "",
+      "en": "Can take shivers of your scar",
+      "zh": "相信自己能夠戰勝創傷"
+    },
+    {
+      "time": 153.76,
+      "kanji": "広 がった 世界 に 描 いていく",
+      "furigana": "ひろ がった せかい に えが いていく",
+      "en": "",
+      "zh": "於廣闊的世界中持續描繪"
+    },
+    {
+      "time": 158.371,
+      "kanji": "憧 れはいつか 消 えてしまうのか?",
+      "furigana": "あこが れはいつか き えてしまうのか?",
+      "en": "",
+      "zh": "難道憧憬總有一天會風吹雲散嗎？"
+    },
+    {
+      "time": 164.185,
+      "kanji": "",
+      "furigana": "",
+      "en": "Raise your hands up to the sky",
+      "zh": "向著蒼穹舉起手來"
+    },
+    {
+      "time": 167.836,
+      "kanji": "閉 じていたvision 今 未来 を 繋 いで",
+      "furigana": "と じていたvision いま みらい を つな いで",
+      "en": "",
+      "zh": "昔日封閉的視野，如今正聯繫著未來"
+    },
+    {
+      "time": 174.035,
+      "kanji": "",
+      "furigana": "",
+      "en": "Listen up, Troublemaker",
+      "zh": "聽好了，麻煩製造者"
+    },
+    {
+      "time": 176.478,
+      "kanji": "",
+      "furigana": "",
+      "en": "How'd you know 'bout my fever?",
+      "zh": "你能了解我的熱情嗎？"
+    },
+    {
+      "time": 178.886,
+      "kanji": "どんなに 読 み 漁 ったって そこに 答 えはない",
+      "furigana": "どんなに よ み あさ ったって そこに こた えはない",
+      "en": "",
+      "zh": "即使再怎樣博覽群書，也無法從中尋覓出解答"
+    },
+    {
+      "time": 184.017,
+      "kanji": "",
+      "furigana": "",
+      "en": "Raise your hands up to the sky",
+      "zh": "向著蒼穹舉起手來"
+    },
+    {
+      "time": 187.574,
+      "kanji": "解 き 放 つdimension 新 たな 頁 開 いて",
+      "furigana": "と き はな つdimension あら たな ぺーじ ひら いて",
+      "en": "",
+      "zh": "解放過去的枷鎖，開啟嶄新的篇章"
+    },
+    {
+      "time": 193.613,
+      "kanji": "",
+      "furigana": "",
+      "en": "Listen up, Troublemaker",
+      "zh": "聽好了，麻煩製造者"
+    },
+    {
+      "time": 196.002,
+      "kanji": "",
+      "furigana": "",
+      "en": "How'd you know 'bout my fever",
+      "zh": "你能了解我的熱情嗎？"
+    },
+    {
+      "time": 198.529,
+      "kanji": "どんなに 愛 していたって 音 に 載 せれない",
+      "furigana": "どんなに あい していたって おと に の せれない",
+      "en": "",
+      "zh": "不論有多麼深愛，也無法以言語(聲音)來乘載"
+    }
+  ]
 }
