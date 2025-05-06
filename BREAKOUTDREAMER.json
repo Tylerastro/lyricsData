@@ -1,21 +1,21 @@
 {
   "id": 47,
   "title": " BREAK OUT DREAMER",
-  "status": 2,
+  "status": 3,
   "artist": "白玖ウタノ",
   "lyricist": "栗林みな実",
   "composer": "飯塚昌明",
   "arranger": "飯塚昌明",
-  "translator": "",
+  "translator": "Fir(@Fir3k0)",
   "start_at": 0,
   "url": "dHtXRtTKSj4?si=7n0ufJJqEf4hBL9q",
-  "url_translation": "",
+  "url_translation": "https://home.gamer.com.tw/artwork.php?sn=6136409",
   "lyrics": [
     {
-      "time": 10,
+      "time": 10.293,
       "kanji": "",
       "furigana": "",
-      "en": "(Break out Break out with you",
+      "en": "Break out Break out with you",
       "zh": ""
     },
     {
@@ -34,135 +34,135 @@
     },
     {
       "time": 17.912,
-      "kanji": "Break out Break out DREAMER さぁ…!)",
-      "furigana": "Break out Break out DREAMER さぁ…!)",
+      "kanji": "Break out Break out DREAMER さぁ…!",
+      "furigana": "Break out Break out DREAMER さぁ…!",
       "en": "",
-      "zh": ""
+      "zh": "Break out Break out DREAMER 來吧…！)"
     },
     {
       "time": 22.617,
       "kanji": "確 かな 予感 が 私 を 呼 んでる",
       "furigana": "たし かな よかん が わたし を よ んでる",
       "en": "",
-      "zh": ""
+      "zh": "確實的預感 正呼喚著我"
     },
     {
       "time": 27.475,
       "kanji": "気 のせいじゃない 一 歩 踏 み 出 そう",
       "furigana": "き のせいじゃない いっ ぽ ふ み だ そう",
       "en": "",
-      "zh": ""
+      "zh": "並不是甚麼錯覺 往前踏出一步吧"
     },
     {
       "time": 32.065,
       "kanji": "何 が 足 りてない…? がむしゃらな 日々",
       "furigana": "なに が た りてない…? がむしゃらな ひび",
       "en": "",
-      "zh": ""
+      "zh": "究竟缺少了甚麼…？ 不顧一切的每一天"
     },
     {
       "time": 37.163,
       "kanji": "パワーにするから",
       "furigana": "パワーにするから",
       "en": "",
-      "zh": ""
+      "zh": "將其轉化為力量吧"
     },
     {
-      "time": 40.275,
-      "kanji": "(Break out Break out with you 負 けない)",
-      "furigana": "(Break out Break out with you ま けない)",
+      "time": 39.924,
+      "kanji": "Break out Break out with you 負 けない",
+      "furigana": "Break out Break out with you ま けない",
       "en": "",
-      "zh": ""
+      "zh": "Break out Break out with you 絕不認輸"
     },
     {
       "time": 44.412,
       "kanji": "全身 で 全力 で 全 振 りで 足掻 いて",
       "furigana": "ぜんしん で ぜんりょく で ぜん ふ りで あが いて",
       "en": "",
-      "zh": ""
+      "zh": "拚盡全身 竭盡全力 全心投入 奮力掙扎"
     },
     {
       "time": 48.539,
       "kanji": "叫 んでも 叫 んでも 届 かない",
       "furigana": "さけ んでも さけ んでも とど かない",
       "en": "",
-      "zh": ""
+      "zh": "再怎麼吶喊 怎麼嘶吼 也傳達不了"
     },
     {
       "time": 53.036,
       "kanji": "忘 れない 悔 しさの 雨",
       "furigana": "わす れない くや しさの あめ",
       "en": "",
-      "zh": ""
+      "zh": "不會忘記 懊悔不甘的雨"
     },
     {
       "time": 58.356,
       "kanji": "君 の 声 が 味方 だった 動 き 出 せるよ",
       "furigana": "きみ の こえ が みかた だった うご き だ せるよ",
       "en": "",
-      "zh": ""
+      "zh": "你的聲音是我的同伴 讓我能重新邁開腳步"
     },
     {
       "time": 65.56,
       "kanji": "Bright Story 飛 ぼうよ Next future 先 へ",
       "furigana": "Bright Story と ぼうよ Next future さき へ",
       "en": "",
-      "zh": ""
+      "zh": "朝 Bright Story 翱翔吧 飛往 Next future 的前方"
     },
     {
       "time": 70.673,
       "kanji": "Fly to sky 高 く、どこまでも(Let's fly high)",
       "furigana": "Fly to sky たか く、どこまでも(Let's fly high)",
       "en": "",
-      "zh": ""
+      "zh": "高遠地 Fly to sky、無論天涯海角(Let's fly high)"
     },
     {
       "time": 75.706,
       "kanji": "ワクワクしよう ここから(and you?)",
       "furigana": "ワクワクしよう ここから(and you?)",
       "en": "",
-      "zh": ""
+      "zh": "讓我們懷著興奮期待吧 從這裡啟程(and you？)"
     },
     {
       "time": 80.334,
       "kanji": "私 らしい 軌道 で 次 のステージへ",
       "furigana": "わたし らしい きどう で つぎ のステージへ",
       "en": "",
-      "zh": ""
+      "zh": "走在屬於我的軌道上 邁向下一個舞台"
     },
     {
       "time": 85.188,
       "kanji": "Bright Story 強気 で Keep on dream 行 ける",
       "furigana": "Bright Story つよき で Keep on dream い ける",
       "en": "",
-      "zh": ""
+      "zh": "Bright Story 拿出自信 Keep on dream 一定可以"
     },
     {
       "time": 90.166,
       "kanji": "Try and try 何度 も",
       "furigana": "Try and try なんど も",
       "en": "",
-      "zh": ""
+      "zh": "Try and try 不管多少次"
     },
     {
       "time": 92.61,
       "kanji": "私 だけに 出来 ることあるから",
       "furigana": "わたし だけに でき ることあるから",
       "en": "",
-      "zh": ""
+      "zh": "因為有些事就只有我能辦得到"
     },
     {
       "time": 99.609,
       "kanji": "駆 け 抜 けよう(OK?) 果 てしない 空 へ",
       "furigana": "か け ぬ けよう(OK?) は てしない そら へ",
       "en": "",
-      "zh": ""
+      "zh": "全力飛奔衝刺吧(OK？)朝那無垠的天空"
     },
     {
       "time": 105,
       "kanji": "",
       "furigana": "",
-      "en": "(Break out Break out with you",
+      "en": "Break out Break out with you",
       "zh": ""
     },
     {
@@ -181,191 +181,191 @@
     },
     {
       "time": 112.111,
-      "kanji": "Break out 進 もう)",
-      "furigana": "Break out すす もう)",
+      "kanji": "Break out 進 もう",
+      "furigana": "Break out すす もう",
       "en": "",
-      "zh": ""
+      "zh": "Break out 前進吧"
     },
     {
       "time": 114.506,
       "kanji": "世界 のド 真 ん 中 歌 い 続 けてる",
       "furigana": "せかい のド ま ん なか うた い つづ けてる",
       "en": "",
-      "zh": ""
+      "zh": "在世界的正中心 持續歌唱不斷"
     },
     {
       "time": 119.137,
       "kanji": "刻 むんだ \"ここにいるよ\"って",
       "furigana": "きざ むんだ \"ここにいるよ\"って",
       "en": "",
-      "zh": ""
+      "zh": "牢牢刻下 “我就在這裡”的印記"
     },
     {
       "time": 123.952,
       "kanji": "いつかたどり 着 く 信 じれば 最強",
       "furigana": "いつかたどり つ く しん じれば さいきょう",
       "en": "",
-      "zh": ""
+      "zh": "總有一天能夠抵達 只要相信就是最強"
     },
     {
       "time": 129.057,
       "kanji": "何 も 怖 くない",
       "furigana": "なに も こわ くない",
       "en": "",
-      "zh": ""
+      "zh": "甚麼都無所畏懼"
     },
     {
       "time": 133.993,
       "kanji": "まっすぐに 前 を 見 て 不器用 に 走 って",
       "furigana": "まっすぐに まえ を み て ぶきよう に はし って",
       "en": "",
-      "zh": ""
+      "zh": "筆直地 望向前方 拖着笨拙的步伐奔跑"
     },
     {
       "time": 138.219,
       "kanji": "自分 をさらけ 出 さなきゃ 越 えてゆくから",
       "furigana": "じぶん をさらけ だ さなきゃ こ えてゆくから",
       "en": "",
-      "zh": ""
+      "zh": "必須展現真實的自我 我會跨越過眼前一切"
     },
     {
       "time": 145.296,
       "kanji": "Bright story 弾 けて Next future 熱 く",
       "furigana": "Bright story はじ けて Next future あつ く",
       "en": "",
-      "zh": ""
+      "zh": "迸發 Bright story 讓 Next future 熾熱起來"
     },
     {
       "time": 150.385,
       "kanji": "Sing a song 声 が 尽 きたって(step by step)",
       "furigana": "Sing a song こえ が つ きたって(step by step)",
       "en": "",
-      "zh": ""
+      "zh": "Sing a song 哪怕唱至聲嘶力竭(step by step)"
     },
     {
       "time": 155.402,
       "kanji": "ワクワクするね 始 まる(and you?)",
       "furigana": "ワクワクするね はじ まる(and you?)",
       "en": "",
-      "zh": ""
+      "zh": "真令人興奮期待呢 要開始了(and you？)"
     },
     {
       "time": 160.105,
       "kanji": "不可能 なんてない 揺 るがない 勇気 で",
       "furigana": "ふかのう なんてない ゆ るがない ゆうき で",
       "en": "",
-      "zh": ""
+      "zh": "不存在甚麼不可能 抱著堅定不移的勇氣"
     },
     {
       "time": 165.189,
       "kanji": "Bright Story 本気 で Keep on dream 行 こう",
       "furigana": "Bright Story ほんき で Keep on dream い こう",
       "en": "",
-      "zh": ""
+      "zh": "朝Bright Story 認真地 Keep on dream 邁進吧"
     },
     {
       "time": 170,
       "kanji": "Take a chance 掴 んで 離 さないよ",
       "furigana": "Take a chance つか んで はな さないよ",
       "en": "",
-      "zh": ""
+      "zh": "Take a chance 緊緊抓住 絕不放開啊"
     },
     {
       "time": 175.598,
       "kanji": "夢 があふれてゆく 鼓動 は 速 いままで",
       "furigana": "ゆめ があふれてゆく こどう は はや いままで",
       "en": "",
-      "zh": ""
+      "zh": "夢想源源不斷湧現 心跳依然激烈怦動"
     },
     {
       "time": 206.611,
       "kanji": "(dreaming on) 準備 はOK?(dreaming on) 大 きな 声 で",
       "furigana": "(dreaming on) じゅんび はOK?(dreaming on) おお きな こえ で",
       "en": "",
-      "zh": ""
+      "zh": "(dreaming on)準備OK？(dreaming on)放聲大喊"
     },
     {
-      "time": 211.718,
+      "time": 211.59,
       "kanji": "(Let's all Jump)ひとつになって(Let's all Jump)\" 行 くよ\"",
       "furigana": "(Let's all Jump)ひとつになって(Let's all Jump)\" い くよ\"",
       "en": "",
-      "zh": ""
+      "zh": "(Let's all Jump)齊心化為一體(Let's all Jump)“要出發囉”"
     },
     {
       "time": 215.959,
       "kanji": "Bright Story 飛 ぼうよ Next future 先 へ",
       "furigana": "Bright Story と ぼうよ Next future さき へ",
       "en": "",
-      "zh": ""
+      "zh": "朝 Bright Story 翱翔吧 飛往 Next future 的前方"
     },
     {
       "time": 221.13,
       "kanji": "Fly to sky 高 く、どこまでも(Let's fly high)",
       "furigana": "Fly to sky たか く、どこまでも(Let's fly high)",
       "en": "",
-      "zh": ""
+      "zh": "高遠地 Fly to sky、無論天涯海角(Let's fly high)"
     },
     {
       "time": 226.098,
       "kanji": "ワクワクしよう ここから(and you?)",
       "furigana": "ワクワクしよう ここから(and you?)",
       "en": "",
-      "zh": ""
+      "zh": "讓我們懷著興奮期待吧 從這裡啟程(and you？)"
     },
     {
       "time": 230.699,
       "kanji": "私 らしい 軌道 で 次 のステージへ",
       "furigana": "わたし らしい きどう で つぎ のステージへ",
       "en": "",
-      "zh": ""
+      "zh": "走在屬於我的軌道上 邁向下一個舞台"
     },
     {
       "time": 235.728,
       "kanji": "Bright Story 強気 で Keep on dream 行 ける",
       "furigana": "Bright Story つよき で Keep on dream い ける",
       "en": "",
-      "zh": ""
+      "zh": "Bright Story 拿出自信 Keep on dream 一定可以"
     },
     {
       "time": 240.588,
       "kanji": "Try and try 何度 も",
       "furigana": "Try and try なんど も",
       "en": "",
-      "zh": ""
+      "zh": "Try and try 不管多少次"
     },
     {
       "time": 243.18,
       "kanji": "私 だけに 出来 ることあるから",
       "furigana": "わたし だけに でき ることあるから",
       "en": "",
-      "zh": ""
+      "zh": "因為有些事就只有我能辦得到"
     },
     {
       "time": 249.867,
       "kanji": "あきらめたりしない",
       "furigana": "あきらめたりしない",
       "en": "",
-      "zh": ""
+      "zh": "決然不會放棄"
     },
     {
       "time": 254.729,
       "kanji": "あの 星 より 輝 くんだ",
       "furigana": "あの ほし より かがや くんだ",
       "en": "",
-      "zh": ""
+      "zh": "要比那星星更加閃耀"
     },
     {
       "time": 259.856,
       "kanji": "駆 け 抜 けよう 眩 しい 未来 へ",
       "furigana": "か け ぬ けよう まぶ しい みらい へ",
       "en": "",
-      "zh": ""
+      "zh": "全力飛奔衝刺吧(OK？)朝那耀眼的未來"
     },
     {
       "time": 265.802,
       "kanji": "",
       "furigana": "",
-      "en": "(Break out Break out with you",
+      "en": "Break out Break out with you",
       "zh": ""
     },
     {
@@ -393,7 +393,7 @@
       "time": 274.781,
       "kanji": "",
       "furigana": "",
-      "en": "Aim for the stars)",
+      "en": "Aim for the stars",
       "zh": ""
     }
   ]
