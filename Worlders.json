@@ -1,0 +1,633 @@
+{
+  "id": 21,
+  "title": "Worlders",
+  "status": 1,
+  "artist": "初音ミク",
+  "lyricist": "じん",
+  "composer": "じん",
+  "arranger": "TeddyLoid",
+  "translator": "",
+  "start_at": 0,
+  "url": "UoptEaMrnok",
+  "url_translation": "",
+  "lyrics": [
+    [
+      {
+        "time": 0,
+        "kanji": "きっと 君 も",
+        "furigana": "きっと きみ も",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "きっと「あの 声 が 呼 んでいた」って",
+        "furigana": "きっと「あの こえ が よ んでいた」って",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "言 うと 思 うんだ",
+        "furigana": "い うと おも うんだ",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "最初 の 一 歩 響 いて",
+        "furigana": "さいしょ の いっ ぽ ひび いて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "流 れ 出 した 不可思議 な ブルーズ",
+        "furigana": "なが れ だ した ふかしぎ な ブルーズ",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "足 りないものばかり 何度 も 何度 も 数 えて",
+        "furigana": "た りないものばかり なんど も なんど も かぞ えて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "いらないものばかり 何個 も 何個 も 抱 えて",
+        "furigana": "いらないものばかり なんこ も なんこ も かか えて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "目 を 閉 じた 瞬間 始 まった 物語",
+        "furigana": "め を と じた しゅんかん はじ まった ものがたり",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "頭 に 鎖 で 錠 をした",
+        "furigana": "あたま に くさり で じょう をした",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "言葉 じゃ ずっと 頼 りないから",
+        "furigana": "ことば じゃ ずっと たよ りないから",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "その 代 わり 震 えた 喉 の 奥 が",
+        "furigana": "その か わり ふる えた のど の おく が",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "そっと 空気 を 揺 らして",
+        "furigana": "そっと くうき を ゆ らして",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "何度 だって 鳴 り 渡 る",
+        "furigana": "なんど だって な り わた る",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "「Do」「Re」「Meet」 を 重 ねて",
+        "furigana": "「Do」「Re」「Meet」 を かさ ねて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "紡 いだ 君 のまっさらな 歌",
+        "furigana": "つむ いだ きみ のまっさらな うた",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "青 く 赤 く",
+        "furigana": "あお く あか く",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "淡 く 熱 く",
+        "furigana": "あわ く あつ く",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "未来 だって 描 き 上 げる 染 め 上 げて",
+        "furigana": "みらい だって えが き あ げる そ め あ げて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "風 に 濯 がれて",
+        "furigana": "かぜ に そそ がれて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "夢 の 前 で 立 ち 尽 くしたまま",
+        "furigana": "ゆめ の まえ で た ち つ くしたまま",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "僕 は 君 は",
+        "furigana": "ぼく は きみ は",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "知 らない 消 えない",
+        "furigana": "し らない き えない",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "メロディを 思 い 出 して",
+        "furigana": "メロディを おも い だ して",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "戸惑 い 気味 に",
+        "furigana": "とまど い ぎみ に",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "笑 いながら",
+        "furigana": "わら いながら",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "今日 も 歩 き 出 した",
+        "furigana": "きょう も ある き だ した",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "きっと 君 も",
+        "furigana": "きっと きみ も",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "ふとした 時 に 浮 かぶ 歌 が",
+        "furigana": "ふとした とき に う かぶ うた が",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "あると 思 うんだ",
+        "furigana": "あると おも うんだ",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "最初 の 方 が",
+        "furigana": "さいしょ の ほう が",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "ちょっと 歌 えなくなった",
+        "furigana": "ちょっと うた えなくなった",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "いつかのブルーズ",
+        "furigana": "いつかのブルーズ",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "間違 ってる 合 ってる ばかり 何度 も 唱 えて",
+        "furigana": "まちが ってる あ ってる ばかり なんど も とな えて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "怖 がってるばっかで にっちもさっちも 進 めない",
+        "furigana": "こわ がってるばっかで にっちもさっちも すす めない",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "誰 もが 主役 で 語 り 役 の 物語",
+        "furigana": "だれ もが しゅやく で かた り やく の ものがたり",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "心 の 呪 いを 解 いたって",
+        "furigana": "こころ の のろ いを と いたって",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "正 しい 道 は 見 つからないけど",
+        "furigana": "ただ しい みち は み つからないけど",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "その 代 わり 理屈 の 重 いドアを",
+        "furigana": "その か わり りくつ の おも いドアを",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "こじ 開 けていく 魔法 を 乗 り 越 えていく 魔法 を",
+        "furigana": "こじ あ けていく まほう を の り こ えていく まほう を",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "いくつも 見 つけたろ",
+        "furigana": "いくつも み つけたろ",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "同 じ 道 のりが 奏 でた",
+        "furigana": "おな じ みち のりが かな でた",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "それは 泣 き 声 の 歌",
+        "furigana": "それは な き ごえ の うた",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "側 で 隣 で",
+        "furigana": "そば で となり で",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "道 の 先 で",
+        "furigana": "みち の さき で",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "何処 にいたって 聴 き 取 れる 輝 いて",
+        "furigana": "どこ にいたって き き と れる かがや いて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "震 える 体 が",
+        "furigana": "ふる える からだ が",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "動 かなくても 構 わないから",
+        "furigana": "うご かなくても かま わないから",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "いつか ここで",
+        "furigana": "いつか ここで",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "聞 いた 聞 こえた",
+        "furigana": "き いた き こえた",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "声 を 思 い 出 して",
+        "furigana": "こえ を おも い だ して",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Changing the world",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Singing loudly",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Turning the world",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Let's keep singing",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Changing the world",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Singing loudly",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Turning the world",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Let hear love song",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "「Do」「Re」「Meet」 を 重 ねて",
+        "furigana": "「Do」「Re」「Meet」 を かさ ねて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "紡 いだ 君 のまっさらな 歌",
+        "furigana": "つむ いだ きみ のまっさらな うた",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "青 く 赤 く",
+        "furigana": "あお く あか く",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "淡 く 熱 く",
+        "furigana": "あわ く あつ く",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "何度 だって 鳴 り 響 く 響 かせて",
+        "furigana": "なんど だって な り ひび く ひび かせて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "風 に 濯 がれて",
+        "furigana": "かぜ に そそ がれて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "夢 の 意味 も わからないまま",
+        "furigana": "ゆめ の いみ も わからないまま",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "僕 は 君 は",
+        "furigana": "ぼく は きみ は",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "知 らない 消 えない",
+        "furigana": "し らない き えない",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "メロディを 追 いかけて",
+        "furigana": "メロディを お いかけて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "音 に 乗 せて",
+        "furigana": "おと に の せて",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "笑 いながら",
+        "furigana": "わら いながら",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "歌 う 未来 の 歌 を",
+        "furigana": "うた う みらい の うた を",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "今 ありのまま",
+        "furigana": "いま ありのまま",
+        "en": "",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Changing the world",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Singing loudly",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Turning the world",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Oh yeah",
+        "zh": ""
+      },
+      {
+        "time": 0,
+        "kanji": "",
+        "furigana": "",
+        "en": "Let's keep singing",
+        "zh": ""
+      }
+    ]
+  ]
+}
